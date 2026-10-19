@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Little Noor
 
 Little Noor is an Islamic learning website for children aged 3–10. This repository currently holds the starting frontend and a small API shell. Lessons, quizzes, games, and the AI teacher are not built yet.
@@ -74,3 +75,7 @@ The backend has no build step. Use `npm start` in `backend` to run it without fi
 | `/parent` | Parent Dashboard |
 
 Pages other than the home layout are placeholders.
+=======
+# little-noor
+A colourful Islamic learning website for kids aged 3-10.
+>>>>>>> 34a42b4937bdc0e5965f5d4619594f97820774a7
