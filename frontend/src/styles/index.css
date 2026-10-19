@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Nunito", "Segoe UI", sans-serif;
+  --font-display: "Fredoka", "Nunito", sans-serif;
+
+  --color-noor-sky-soft: #e8f6fc;
+  --color-noor-sky: #b9e4f7;
+  --color-noor-sky-deep: #8fd0ea;
+  --color-noor-mint-soft: #e7f8f0;
+  --color-noor-mint: #c4f0dc;
+  --color-noor-mint-deep: #8ed9b8;
+  --color-noor-sun-soft: #fff7dc;
+  --color-noor-sun: #ffe8a3;
+  --color-noor-sun-deep: #f8d56a;
+  --color-noor-peach: #ffd6c9;
+  --color-noor-ink: #1e3a4c;
+  --color-noor-muted: #5a7382;
+  --color-noor-card: #ffffff;
+
+  --shadow-soft: 0 10px 28px rgb(46 120 150 / 0.12);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color-scheme: light;
+  }
+
+  body {
+    @apply bg-noor-sky-soft font-sans text-noor-ink antialiased;
+    margin: 0;
+    min-height: 100svh;
+    background-image:
+      radial-gradient(circle at 0% 0%, var(--color-noor-sun-soft), transparent 42%),
+      radial-gradient(circle at 100% 0%, var(--color-noor-mint-soft), transparent 46%),
+      linear-gradient(180deg, var(--color-noor-sky-soft), #f8fcfe 46%, #ffffff);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display text-noor-ink;
+  }
+
+  #root {
+    min-height: 100svh;
+  }
+}

@@ -1,0 +1,80 @@
+import {
+  BookOpen,
+  CircleDot,
+  CircleHelp,
+  Gamepad2,
+  House,
+  LayoutDashboard,
+  MoonStar,
+  Sparkles,
+} from 'lucide-react'
+
+export const navItems = [
+  {
+    path: '/',
+    label: 'Home',
+    icon: House,
+    summary: 'A gentle start for little learners.',
+    accent: 'sky',
+  },
+  {
+    path: '/kalimas',
+    label: 'Kalimas',
+    icon: BookOpen,
+    summary: 'The six Kalimas will be read here, with short meanings children can follow.',
+    accent: 'sky',
+    group: 'learn',
+  },
+  {
+    path: '/azkar',
+    label: 'Azkar',
+    icon: MoonStar,
+    summary: 'Morning and evening azkar will be gathered here in a calm, simple list.',
+    accent: 'mint',
+    group: 'learn',
+  },
+  {
+    path: '/tasbeeh',
+    label: 'Tasbeeh',
+    icon: CircleDot,
+    summary: 'A gentle tasbeeh for little hands is planned for this page.',
+    accent: 'sun',
+    group: 'learn',
+  },
+  {
+    path: '/quiz',
+    label: 'Quiz',
+    icon: CircleHelp,
+    summary: 'Short quizzes will live here once the lessons are ready.',
+    accent: 'sky',
+    group: 'more',
+  },
+  {
+    path: '/games',
+    label: 'Games',
+    icon: Gamepad2,
+    summary: 'Small learning games will be added here.',
+    accent: 'mint',
+    group: 'more',
+  },
+  {
+    path: '/ai-teacher',
+    label: 'AI Teacher',
+    icon: Sparkles,
+    summary: 'A kind teacher children can ask is planned. No AI service is connected yet.',
+    accent: 'sun',
+    group: 'more',
+  },
+  {
+    path: '/parent',
+    label: 'Parent Dashboard',
+    icon: LayoutDashboard,
+    summary: 'Parents will be able to follow progress here in a later update.',
+    accent: 'mint',
+    group: 'more',
+  },
+]
+
+export function findPage(path) {
+  return navItems.find((item) => item.path === path)
+}
