@@ -1,22 +1,34 @@
-import cors from 'cors'
-import express from 'express'
+import dotenv from 'dotenv'
+import { createApp } from './app.js'
+import { assertProductionOrigin, readConfig } from './config.js'
+import { createLogger } from './logger.js'
+import { createSupabaseFactory } from './supabase.js'
 
-const app = express()
-const port = Number(process.env.PORT) || 5000
+dotenv.config()
 
-app.disable('x-powered-by')
-app.use(cors())
-app.use(express.json())
+const config = readConfig(process.env)
 
-app.get('/api/health', (_req, res) => {
-  res.json({
-    status: 'ok',
-    service: 'little-noor-api',
-  })
+try {
+  assertProductionOrigin(process.env)
+} catch (error) {
+  console.error(error.message)
+  process.exit(1)
+}
+
+const app = createApp({
+  config,
+  logger: createLogger(),
+  createClient: createSupabaseFactory(config),
 })
 
-const server = app.listen(port, () => {
-  console.log(`Little Noor API listening on http://localhost:${port}`)
+const server = app.listen(config.port, () => {
+  console.log(JSON.stringify({
+    level: 'info',
+    event: 'listening',
+    port: config.port,
+    supabaseEnv: config.supabaseConfigured ? 'present' : 'missing',
+    openaiEnv: config.openaiConfigured ? 'present' : 'missing',
+  }))
 })
 
 server.on('error', (error) => {

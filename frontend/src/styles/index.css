@@ -3,6 +3,7 @@
 @theme {
   --font-sans: "Nunito", "Segoe UI", sans-serif;
   --font-display: "Fredoka", "Nunito", sans-serif;
+  --font-arabic: "Amiri", "Noto Naskh Arabic", serif;
 
   --color-noor-sky-soft: #e8f6fc;
   --color-noor-sky: #b9e4f7;
@@ -14,6 +15,7 @@
   --color-noor-sun: #ffe8a3;
   --color-noor-sun-deep: #f8d56a;
   --color-noor-peach: #ffd6c9;
+  --color-noor-cream: #f6f1e6;
   --color-noor-ink: #1e3a4c;
   --color-noor-muted: #5a7382;
   --color-noor-card: #ffffff;

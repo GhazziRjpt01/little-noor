@@ -1,27 +1,64 @@
-import { motion } from 'framer-motion'
-import { Star } from 'lucide-react'
+import { useEffect, useState } from 'react'
+import { Check, Star } from 'lucide-react'
+import chest from '../../assets/illustrations/treasure-chest.webp'
+import { readAzkarCompletedToday } from '../../hooks/useAzkarProgress.js'
+import { readTasbeehTotal } from '../../hooks/useTasbeeh.js'
+import { useRewards } from '../../hooks/useRewards.js'
 import Card from '../Card.jsx'
 
-const stepsDone = 2
-const stepsTotal = 4
-const starsEarned = 2
-const starsTotal = 5
-const progress = Math.round((stepsDone / stepsTotal) * 100)
+const STAR_SLOTS = 5
+
+function readPractice() {
+  return {
+    azkar: readAzkarCompletedToday() > 0,
+    tasbeeh: readTasbeehTotal() > 0,
+  }
+}
 
 export default function LearningGoal() {
+  const rewards = useRewards()
+  const [practice, setPractice] = useState(readPractice)
+
+  useEffect(() => {
+    const sync = () => setPractice(readPractice())
+    window.addEventListener('little-noor-progress', sync)
+    window.addEventListener('storage', sync)
+    return () => {
+      window.removeEventListener('little-noor-progress', sync)
+      window.removeEventListener('storage', sync)
+    }
+  }, [])
+
+  const goals = [
+    { label: 'Say one Azkar', done: practice.azkar },
+    { label: 'Tap the tasbeeh', done: practice.tasbeeh },
+    { label: 'Earn a star', done: rewards.stars > 0 },
+  ]
+  const stepsDone = goals.filter((goal) => goal.done).length
+  const filledStars = Math.min(rewards.stars, STAR_SLOTS)
+
   return (
     <Card accent="sun" className="flex h-full flex-col sm:p-8">
-      <p className="text-sm font-extrabold text-noor-muted">For today</p>
-      <h2 className="mt-1 text-3xl font-semibold">Today’s Learning Goal</h2>
+      <div className="flex items-start justify-between gap-4">
+        <div>
+          <p className="text-sm font-extrabold text-noor-muted">For today</p>
+          <h2 className="mt-1 text-3xl font-semibold">Today’s Learning Goal</h2>
+        </div>
+        <img
+          src={chest}
+          alt="An open treasure chest filled with stars"
+          className="h-24 w-24 shrink-0 object-contain"
+        />
+      </div>
       <p className="mt-3 text-lg font-semibold leading-relaxed text-noor-muted">
-        Learn one Kalima and practice a short tasbeeh.
+        Say one Azkar, tap the tasbeeh, and earn a star.
       </p>
 
       <div className="mt-6">
         <div className="mb-2 flex items-center justify-between text-sm font-extrabold">
           <span>Progress</span>
           <span>
-            {stepsDone} of {stepsTotal}
+            {stepsDone} of {goals.length}
           </span>
         </div>
         <div
@@ -29,40 +66,50 @@ export default function LearningGoal() {
           role="progressbar"
           aria-valuenow={stepsDone}
           aria-valuemin={0}
-          aria-valuemax={stepsTotal}
+          aria-valuemax={goals.length}
           aria-label="Today’s learning progress"
         >
-          <motion.div
-            className="h-full origin-left rounded-full bg-noor-sun-deep"
-            style={{ width: `${progress}%` }}
-            initial={{ scaleX: 0 }}
-            animate={{ scaleX: 1 }}
-            transition={{ duration: 0.7, ease: 'easeOut' }}
+          <div
+            className="h-full rounded-full bg-noor-sun-deep"
+            style={{ width: `${Math.round((stepsDone / goals.length) * 100)}%` }}
           />
         </div>
       </div>
 
-      <div className="mt-5 flex flex-wrap items-center gap-3">
-        <div className="flex gap-1" aria-label={`${starsEarned} of ${starsTotal} stars earned`}>
-          {Array.from({ length: starsTotal }, (_, index) => {
-            const earned = index < starsEarned
+      <ul className="mt-5 flex flex-col gap-2">
+        {goals.map((goal) => (
+          <li key={goal.label} className="flex items-center gap-3 text-base font-extrabold">
+            <span
+              className={`flex h-9 w-9 items-center justify-center rounded-full ${goal.done ? 'bg-noor-mint-deep' : 'bg-noor-sky-soft text-transparent'}`}
+              aria-hidden="true"
+            >
+              <Check size={18} />
+            </span>
+            <span>
+              {goal.label}
+              <span className="sr-only">{goal.done ? ', done' : ', not yet'}</span>
+            </span>
+          </li>
+        ))}
+      </ul>
 
-            return (
-              <Star
-                key={index}
-                size={28}
-                aria-hidden="true"
-                className={
-                  earned
-                    ? 'fill-noor-sun-deep text-noor-sun-deep'
-                    : 'fill-transparent text-noor-sky-deep'
-                }
-              />
-            )
-          })}
+      <div className="mt-5 flex flex-wrap items-center gap-3">
+        <div className="flex gap-1" aria-label={`${rewards.stars} stars on this device`}>
+          {Array.from({ length: STAR_SLOTS }, (_, index) => (
+            <Star
+              key={index}
+              size={28}
+              aria-hidden="true"
+              className={
+                index < filledStars
+                  ? 'fill-noor-sun-deep text-noor-sun-deep'
+                  : 'fill-transparent text-noor-sky-deep'
+              }
+            />
+          ))}
         </div>
         <p className="text-sm font-extrabold text-noor-muted">
-          {starsEarned} stars earned
+          {rewards.stars} stars on this device
         </p>
       </div>
     </Card>

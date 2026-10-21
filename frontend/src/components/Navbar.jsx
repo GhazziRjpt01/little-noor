@@ -4,6 +4,8 @@ import { useState } from 'react'
 import { NavLink, useLocation } from 'react-router-dom'
 import avatar from '../assets/noor-avatar.jpg'
 import logo from '../assets/logo.svg'
+import { useAuth } from '../auth/useAuth.js'
+import { useI18n } from '../i18n/useI18n.js'
 import { navItems } from '../navigation.js'
 import LanguageSelector from './LanguageSelector.jsx'
 
@@ -39,6 +41,8 @@ function NavItems({ mobile = false, onNavigate }) {
 }
 
 export default function Navbar() {
+  const { t } = useI18n()
+  const { session } = useAuth()
   const location = useLocation()
   const [open, setOpen] = useState(false)
   const [menuPath, setMenuPath] = useState(location.pathname)
@@ -66,6 +70,9 @@ export default function Navbar() {
 
           <div className="flex items-center gap-2">
             <LanguageSelector />
+            <NavLink to={session ? '/logout' : '/login'} className={({ isActive }) => `${linkClass(isActive, false)} hidden sm:inline-flex`}>
+              {session ? t('auth.logout') : t('auth.login')}
+            </NavLink>
             <img
               src={avatar}
               alt="Noor's avatar"
@@ -102,6 +109,13 @@ export default function Navbar() {
           >
             <div className="mx-auto flex max-w-6xl flex-col gap-1 px-4 pb-4">
               <NavItems mobile onNavigate={() => setOpen(false)} />
+              <NavLink
+                to={session ? '/logout' : '/login'}
+                className={({ isActive }) => linkClass(isActive, true)}
+                onClick={() => setOpen(false)}
+              >
+                {session ? t('auth.logout') : t('auth.login')}
+              </NavLink>
             </div>
           </motion.nav>
         ) : null}

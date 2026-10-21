@@ -8,12 +8,13 @@ export default function ParentDashboardCard() {
       <span className="flex h-14 w-14 items-center justify-center rounded-2xl bg-white text-noor-ink shadow-soft">
         <LayoutDashboard size={28} aria-hidden="true" />
       </span>
-      <h2 className="mt-4 text-3xl font-semibold">Parent Dashboard</h2>
+      <p className="mt-4 text-sm font-extrabold text-noor-muted">For a grown-up</p>
+      <h2 className="mt-1 text-3xl font-semibold">Parent Dashboard</h2>
       <p className="mt-3 flex-1 text-lg font-semibold leading-relaxed text-noor-muted">
         A quiet corner for parents to follow lessons, practice, and quizzes.
       </p>
       <div className="mt-6">
-        <Button to="/parent" variant="mint">
+        <Button to="/parent" variant="mint" className="min-h-14">
           Open dashboard
         </Button>
       </div>

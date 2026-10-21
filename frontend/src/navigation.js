@@ -7,6 +7,7 @@ import {
   LayoutDashboard,
   MoonStar,
   Sparkles,
+  Library,
 } from 'lucide-react'
 
 export const navItems = [
@@ -50,6 +51,30 @@ export const navItems = [
     group: 'more',
   },
   {
+    path: '/stories',
+    label: 'Stories',
+    icon: Library,
+    summary: 'Short stories a parent reads with a child.',
+    accent: 'peach',
+    group: 'more',
+  },
+  {
+    path: '/lessons',
+    label: 'Lessons',
+    icon: BookOpen,
+    summary: 'Short lessons about worship and good manners.',
+    accent: 'sky',
+    group: 'learn',
+  },
+  {
+    path: '/activities',
+    label: 'Activities',
+    icon: Gamepad2,
+    summary: 'Simple activities to try with a grown-up.',
+    accent: 'sun',
+    group: 'more',
+  },
+  {
     path: '/games',
     label: 'Games',
     icon: Gamepad2,
@@ -61,7 +86,7 @@ export const navItems = [
     path: '/ai-teacher',
     label: 'AI Teacher',
     icon: Sparkles,
-    summary: 'A kind teacher children can ask is planned. No AI service is connected yet.',
+    summary: 'A kind teacher chat. The teacher service is not connected yet.',
     accent: 'sun',
     group: 'more',
   },

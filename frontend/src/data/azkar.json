@@ -1,0 +1,778 @@
+{
+  "categories": [
+    {
+      "id": "morning",
+      "title": "Morning",
+      "items": [
+        {
+          "id": "morning-1",
+          "title": "Ayat al-Kursi in the morning",
+          "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+          "transliteration": "Allahu la ilaha illa huwal hayyul qayyum. Read the rest slowly with a parent.",
+          "translations": {
+            "en": "Allah - none has the right to be worshipped except Him, the Ever-Living, the Sustainer. A parent can help with the full meaning.",
+            "ur": "اللہ، اس کے سوا کوئی معبود نہیں، وہ ہمیشہ زندہ ہے اور سب کو قائم رکھنے والا ہے۔ پوری آیت کا مطلب بڑے کے ساتھ سنیں۔"
+          },
+          "source": "Quran 2:255. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. Reading it in the morning is taught from hadith collections; confirm that hadith before fixing a count.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "morning-2",
+          "title": "Surah Al-Ikhlas in the morning",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ\nٱللَّهُ ٱلصَّمَدُ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nوَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+          "transliteration": "Qul huwallahu ahad. Allahus samad. Lam yalid wa lam yulad. Wa lam yakun lahu kufuwan ahad.",
+          "translations": {
+            "en": "Say: He is Allah, the One. He is the Eternal Refuge. He does not have children, and He was not born. No one is equal to Him.",
+            "ur": "کہو: اللہ ایک ہے۔ وہ بے نیاز ہے۔ نہ اس کی اولاد ہے نہ وہ کسی کی اولاد ہے۔ کوئی اس کے برابر نہیں۔"
+          },
+          "source": "Quran 112:1-4. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah. A hadith teaches reciting it three times in the morning; confirm the hadith number before approval.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 3,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "morning-3",
+          "title": "Surah Al-Falaq in the morning",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ\nمِن شَرِّ مَا خَلَقَ\nوَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\nوَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ\nوَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+          "transliteration": "Qul a'udhu birabbil falaq, then the following short lines with a parent.",
+          "translations": {
+            "en": "Say: I seek refuge in the Lord of the daybreak, from the harm of what He created, from the night when it grows dark, from those who blow on knots, and from an envier when he envies.",
+            "ur": "کہو: میں صبح کے رب کی پناہ مانگتا ہوں، اس کی پیدا کی ہوئی چیز کے شر سے، اندھیری رات کے شر سے، گرہوں پر پھونکنے والیوں کے شر سے، اور حسد کرنے والے کے شر سے۔"
+          },
+          "source": "Quran 113:1-5. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 3,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "morning-4",
+          "title": "Surah An-Nas in the morning",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ\nمَلِكِ ٱلنَّاسِ\nإِلَٰهِ ٱلنَّاسِ\nمِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ\nٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ\nمِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+          "transliteration": "Qul a'udhu birabbin nas, malikin nas, ilahin nas.",
+          "translations": {
+            "en": "Say: I seek refuge in the Lord of people, the King of people, the God of people, from the whispering devil who withdraws.",
+            "ur": "کہو: میں لوگوں کے رب، لوگوں کے بادشاہ، لوگوں کے معبود کی پناہ مانگتا ہوں، اس وسوسے سے جو پیچھے ہٹ جاتا ہے۔"
+          },
+          "source": "Quran 114:1-6. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 3,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "morning-5",
+          "title": "A prayer for the morning",
+          "arabic": "ٱللَّٰهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ ٱلنُّشُورُ",
+          "transliteration": "Allahumma bika asbahna wa bika amsayna wa bika nahya wa bika namutu wa ilaykan nushur.",
+          "translations": {
+            "en": "O Allah, by You we enter the morning and the evening. By You we live and we die, and to You is the return.",
+            "ur": "اے اللہ، تیری مدد سے ہم نے صبح کی اور شام کی۔ تیری مدد سے ہم جیتے اور مرتے ہیں، اور ہمیں تیری طرف لوٹنا ہے۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Commonly cited from Sunan Abi Dawud for the morning. Confirm the exact Arabic and the number in your edition.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "morning-6",
+          "title": "The best prayer for forgiveness",
+          "arabic": "ٱللَّٰهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا ٱسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَٱغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ ٱلذُّنُوبَ إِلَّا أَنْتَ",
+          "transliteration": "Allahumma anta rabbi la ilaha illa ant, khalaqtani wa ana abduk, wa ana ala ahdika wa wa'dika mastata't. A'udhu bika min sharri ma sana't, abu'u laka bini'matika alayya wa abu'u bidhanbi faghfir li fa innahu la yaghfirudh dhunuba illa ant.",
+          "translations": {
+            "en": "O Allah, You are my Lord. None has the right to be worshipped except You. You created me and I am Your servant. I seek refuge from the evil of what I have done. Forgive me, for none forgives sins except You.",
+            "ur": "اے اللہ، تو میرا رب ہے۔ تیرے سوا کوئی معبود نہیں۔ تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں۔ میں اپنے کیے کے شر سے پناہ مانگتا ہوں۔ مجھے معاف کر، گناہ تیرے سوا کوئی نہیں بخشتا۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. This is the dua known as sayyidul istighfar, reported in Sahih al-Bukhari. Confirm the number and every Arabic word in your printed copy.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 8,
+          "ageMax": 10
+        },
+        {
+          "id": "morning-7",
+          "title": "A short morning praise",
+          "arabic": "سُبْحَانَ ٱللَّٰهِ وَبِحَمْدِهِ",
+          "transliteration": "Subhana Allahi wa bihamdih.",
+          "translations": {
+            "en": "Allah is free from every flaw, and I praise Him.",
+            "ur": "اللہ ہر نقص سے پاک ہے اور میں اس کی تعریف کرتا ہوں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A short dhikr taught in authentic collections. Confirm the report and the recommended count before approval.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 4,
+          "ageMax": 10
+        },
+        {
+          "id": "morning-8",
+          "title": "Asking for a good day",
+          "arabic": "ٱللَّٰهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَٰذَا ٱلْيَوْمِ",
+          "transliteration": "Allahumma inni as'aluka khayra hadhal yawm.",
+          "translations": {
+            "en": "O Allah, I ask You for the good of this day.",
+            "ur": "اے اللہ، میں تجھ سے اس دن کی بھلائی مانگتا ہوں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A short morning asking. Confirm the fuller dua in a hadith book before teaching a longer version.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        }
+      ]
+    },
+    {
+      "id": "evening",
+      "title": "Evening",
+      "items": [
+        {
+          "id": "evening-1",
+          "title": "Ayat al-Kursi in the evening",
+          "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+          "transliteration": "Allahu la ilaha illa huwal hayyul qayyum. Read the rest with a parent.",
+          "translations": {
+            "en": "The same verse as the morning: Allah is the Ever-Living, the Sustainer.",
+            "ur": "وہی آیت: اللہ ہمیشہ زندہ ہے اور سب کو قائم رکھنے والا ہے۔"
+          },
+          "source": "Quran 2:255. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. Confirm the evening-recitation hadith separately.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "evening-2",
+          "title": "Surah Al-Ikhlas in the evening",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ\nٱللَّهُ ٱلصَّمَدُ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nوَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+          "transliteration": "Qul huwallahu ahad.",
+          "translations": {
+            "en": "He is Allah, the One.",
+            "ur": "وہ اللہ ہے، ایک۔"
+          },
+          "source": "Quran 112:1-4. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 3,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "evening-3",
+          "title": "Surah Al-Falaq in the evening",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ\nمِن شَرِّ مَا خَلَقَ\nوَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\nوَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ\nوَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+          "transliteration": "Qul a'udhu birabbil falaq.",
+          "translations": {
+            "en": "I seek refuge in the Lord of the daybreak.",
+            "ur": "میں صبح کے رب کی پناہ مانگتا ہوں۔"
+          },
+          "source": "Quran 113:1-5. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 3,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "evening-4",
+          "title": "Surah An-Nas in the evening",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ\nمَلِكِ ٱلنَّاسِ\nإِلَٰهِ ٱلنَّاسِ\nمِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ\nٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ\nمِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+          "transliteration": "Qul a'udhu birabbin nas.",
+          "translations": {
+            "en": "I seek refuge in the Lord of people.",
+            "ur": "میں لوگوں کے رب کی پناہ مانگتا ہوں۔"
+          },
+          "source": "Quran 114:1-6. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 3,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "evening-5",
+          "title": "A prayer for the evening",
+          "arabic": "ٱللَّٰهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ ٱلْمَصِيرُ",
+          "transliteration": "Allahumma bika amsayna wa bika asbahna wa bika nahya wa bika namutu wa ilaykal masir.",
+          "translations": {
+            "en": "O Allah, by You we enter the evening and the morning. By You we live and we die, and to You is the return.",
+            "ur": "اے اللہ، تیری مدد سے ہم نے شام کی اور صبح کی۔ تیری مدد سے ہم جیتے اور مرتے ہیں، اور ہمیں تیری طرف لوٹنا ہے۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. The evening pair of the morning dua. Confirm the Arabic, especially the last word, in your edition.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "evening-6",
+          "title": "Asking forgiveness at night",
+          "arabic": "أَسْتَغْفِرُ ٱللَّٰهَ وَأَتُوبُ إِلَيْهِ",
+          "transliteration": "Astaghfirullaha wa atubu ilayh.",
+          "translations": {
+            "en": "I ask Allah to forgive me, and I turn to Him.",
+            "ur": "میں اللہ سے معافی مانگتا ہوں اور اس کی طرف رجوع کرتا ہوں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A short istighfar. Do not attach a reward or a count until the hadith is checked.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        }
+      ]
+    },
+    {
+      "id": "waking",
+      "title": "Waking up",
+      "items": [
+        {
+          "id": "waking-1",
+          "title": "Thanks on waking",
+          "arabic": "ٱلْحَمْدُ لِلَّٰهِ ٱلَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ ٱلنُّشُورُ",
+          "transliteration": "Alhamdu lillahil ladhi ahyana ba'da ma amatana wa ilayhin nushur.",
+          "translations": {
+            "en": "Praise belongs to Allah, who gave us life after causing us to die, and to Him is the return.",
+            "ur": "تعریف اللہ کے لیے ہے جس نے ہمیں موت کے بعد زندگی دی، اور اسی کی طرف اٹھنا ہے۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Reported in Sahih al-Bukhari when waking from sleep. Confirm the number and the Arabic.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "waking-2",
+          "title": "Beginning the day with Allah's name",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "transliteration": "Bismillahir rahmanir rahim.",
+          "translations": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "ur": "شروع اللہ کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے۔"
+          },
+          "source": "Quran 1:1 as returned by api.alquran.cloud. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. Saying it on waking is a family practice; it is not by itself a separate waking hadith.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 3,
+          "ageMax": 10
+        },
+        {
+          "id": "waking-3",
+          "title": "A gentle wake-up praise",
+          "arabic": "ٱلْحَمْدُ لِلَّٰهِ",
+          "transliteration": "Al-hamdu lillah.",
+          "translations": {
+            "en": "All praise belongs to Allah.",
+            "ur": "تمام تعریف اللہ کے لیے ہے۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A short praise. The fuller waking dua is waking-1. Do not treat this short phrase as that hadith.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 3,
+          "ageMax": 10
+        }
+      ]
+    },
+    {
+      "id": "sleeping",
+      "title": "Sleeping",
+      "items": [
+        {
+          "id": "sleeping-1",
+          "title": "Before closing the eyes",
+          "arabic": "بِٱسْمِكَ ٱللَّٰهُمَّ أَمُوتُ وَأَحْيَا",
+          "transliteration": "Bismika Allahumma amutu wa ahya.",
+          "translations": {
+            "en": "In Your name, O Allah, I die and I live.",
+            "ur": "اے اللہ، تیرے نام کے ساتھ میں مرتا ہوں اور جیتا ہوں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Reported in Sahih al-Bukhari for going to sleep. Confirm the number. The words \"die and live\" here mean sleep and waking, in a gentle sense for children.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "sleeping-2",
+          "title": "Ayat al-Kursi before sleep",
+          "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+          "transliteration": "Allahu la ilaha illa huwal hayyul qayyum.",
+          "translations": {
+            "en": "Recite Ayat al-Kursi before sleep with a parent nearby.",
+            "ur": "سونے سے پہلے آیت الکرسی بڑے کے ساتھ پڑھیں۔"
+          },
+          "source": "Quran 2:255. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. A report in Sahih al-Bukhari connects this verse with bedtime. Confirm that passage before approval.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "sleeping-3",
+          "title": "Surah Al-Ikhlas before sleep",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ\nٱللَّهُ ٱلصَّمَدُ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nوَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+          "transliteration": "Qul huwallahu ahad.",
+          "translations": {
+            "en": "Read Surah Al-Ikhlas before sleep.",
+            "ur": "سونے سے پہلے سورۃ اخلاص پڑھیں۔"
+          },
+          "source": "Quran 112:1-4. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "sleeping-4",
+          "title": "Surah Al-Falaq before sleep",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ\nمِن شَرِّ مَا خَلَقَ\nوَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\nوَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ\nوَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+          "transliteration": "Qul a'udhu birabbil falaq.",
+          "translations": {
+            "en": "Read Surah Al-Falaq before sleep.",
+            "ur": "سونے سے پہلے سورۃ فلق پڑھیں۔"
+          },
+          "source": "Quran 113:1-5. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "sleeping-5",
+          "title": "Surah An-Nas before sleep",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ\nمَلِكِ ٱلنَّاسِ\nإِلَٰهِ ٱلنَّاسِ\nمِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ\nٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ\nمِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+          "transliteration": "Qul a'udhu birabbin nas.",
+          "translations": {
+            "en": "Read Surah An-Nas before sleep.",
+            "ur": "سونے سے پہلے سورۃ ناس پڑھیں۔"
+          },
+          "source": "Quran 114:1-6. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        }
+      ]
+    },
+    {
+      "id": "eating",
+      "title": "Eating",
+      "items": [
+        {
+          "id": "eating-1",
+          "title": "Before eating",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "transliteration": "Bismillah.",
+          "translations": {
+            "en": "In the name of Allah.",
+            "ur": "اللہ کے نام سے۔"
+          },
+          "source": "The basmala is Quran 1:1. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. Saying it before eating is taught in the hadith literature. Confirm the eating report separately. If a child forgets, see the next item.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 3,
+          "ageMax": 10
+        },
+        {
+          "id": "eating-2",
+          "title": "If you forgot at the start",
+          "arabic": "بِسْمِ ٱللَّٰهِ أَوَّلَهُ وَآخِرَهُ",
+          "transliteration": "Bismillahi awwalahu wa akhirah.",
+          "translations": {
+            "en": "In the name of Allah at its beginning and its end.",
+            "ur": "اللہ کے نام سے، اس کے شروع میں اور اس کے آخر میں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Taught for the person who forgot the basmala at the start of the meal. Confirm the hadith before approval.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "eating-3",
+          "title": "After eating",
+          "arabic": "ٱلْحَمْدُ لِلَّٰهِ ٱلَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+          "transliteration": "Alhamdu lillahil ladhi at'amana wa saqana wa ja'alana muslimin.",
+          "translations": {
+            "en": "Praise belongs to Allah, who fed us, gave us drink, and made us Muslims.",
+            "ur": "تعریف اللہ کے لیے ہے جس نے ہمیں کھلایا، پلایا، اور ہمیں مسلمان بنایا۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A thanks after food reported in the sunan collections. Confirm the Arabic and the grading before approval.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "eating-4",
+          "title": "Thanks for this food",
+          "arabic": "ٱلْحَمْدُ لِلَّٰهِ",
+          "transliteration": "Al-hamdu lillah.",
+          "translations": {
+            "en": "All praise belongs to Allah. A child can say this right after a meal.",
+            "ur": "تمام تعریف اللہ کے لیے ہے۔ بچہ کھانے کے بعد یہ کہہ سکتا ہے۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A short thanks. It does not replace the fuller dua in the previous item.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 3,
+          "ageMax": 10
+        }
+      ]
+    },
+    {
+      "id": "drinking",
+      "title": "Drinking",
+      "items": [
+        {
+          "id": "drinking-1",
+          "title": "Before drinking",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "transliteration": "Bismillah.",
+          "translations": {
+            "en": "In the name of Allah, before a drink.",
+            "ur": "پینے سے پہلے اللہ کے نام سے۔"
+          },
+          "source": "Quran 1:1 for the basmala. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The manners of saying it before drinking should be confirmed from a hadith or fiqh book your family follows.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 3,
+          "ageMax": 10
+        },
+        {
+          "id": "drinking-2",
+          "title": "After drinking",
+          "arabic": "ٱلْحَمْدُ لِلَّٰهِ",
+          "transliteration": "Al-hamdu lillah.",
+          "translations": {
+            "en": "All praise belongs to Allah, after a drink.",
+            "ur": "پینے کے بعد تمام تعریف اللہ کے لیے ہے۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A short thanks. Do not present it as a unique numbered hadith until it is checked.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 3,
+          "ageMax": 10
+        }
+      ]
+    },
+    {
+      "id": "entering-home",
+      "title": "Entering home",
+      "items": [
+        {
+          "id": "entering-home-1",
+          "title": "On entering home",
+          "arabic": "بِسْمِ ٱللَّٰهِ وَلَجْنَا وَبِسْمِ ٱللَّٰهِ خَرَجْنَا وَعَلَى ٱللَّٰهِ رَبِّنَا تَوَكَّلْنَا",
+          "transliteration": "Bismillahi walajna wa bismillahi kharajna wa alallahi rabbina tawakkalna. Then give salam.",
+          "translations": {
+            "en": "In the name of Allah we enter, in the name of Allah we leave, and upon Allah our Lord we rely. Then say salam to the people at home.",
+            "ur": "اللہ کے نام سے ہم داخل ہوئے، اللہ کے نام سے ہم نکلے، اور اپنے رب اللہ پر بھروسہ کیا۔ پھر گھر والوں کو سلام کہیں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Commonly cited from Sunan Abi Dawud for entering the home. Confirm the Arabic and then teach the salam with it.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "entering-home-2",
+          "title": "Salam at the door",
+          "arabic": "ٱلسَّلَامُ عَلَيْكُمْ",
+          "transliteration": "Assalamu alaykum.",
+          "translations": {
+            "en": "Peace be upon you. Say this to the people in the house.",
+            "ur": "آپ پر سلامتی ہو۔ گھر والوں کو یہ کہیں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. The greeting of salam. A reviewer should add the Quran or hadith reference they want children to learn.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 3,
+          "ageMax": 10
+        }
+      ]
+    },
+    {
+      "id": "leaving-home",
+      "title": "Leaving home",
+      "items": [
+        {
+          "id": "leaving-home-1",
+          "title": "On leaving home",
+          "arabic": "بِسْمِ ٱللَّٰهِ تَوَكَّلْتُ عَلَى ٱللَّٰهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِٱللَّٰهِ",
+          "transliteration": "Bismillahi tawakkaltu alallah, wa la hawla wa la quwwata illa billah.",
+          "translations": {
+            "en": "In the name of Allah, I rely on Allah. There is no power and no strength except with Allah.",
+            "ur": "اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا۔ طاقت اور قوت صرف اللہ کے ساتھ ہے۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Commonly cited for leaving the house. Confirm the collection and number before approval.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "leaving-home-2",
+          "title": "A short leaving phrase",
+          "arabic": "تَوَكَّلْتُ عَلَى ٱللَّٰهِ",
+          "transliteration": "Tawakkaltu alallah.",
+          "translations": {
+            "en": "I rely on Allah.",
+            "ur": "میں نے اللہ پر بھروسہ کیا۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A short phrase from the longer leaving dua. Do not present the short phrase as the full hadith.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 4,
+          "ageMax": 10
+        }
+      ]
+    },
+    {
+      "id": "after-prayer",
+      "title": "After prayer",
+      "items": [
+        {
+          "id": "after-prayer-1",
+          "title": "Asking forgiveness after prayer",
+          "arabic": "أَسْتَغْفِرُ ٱللَّٰهَ",
+          "transliteration": "Astaghfirullah.",
+          "translations": {
+            "en": "I ask Allah to forgive me. Many families say this three times after the prayer. Confirm that count with your teacher.",
+            "ur": "میں اللہ سے معافی مانگتا ہوں۔ بہت سے گھر نماز کے بعد یہ تین بار کہتے ہیں۔ تعداد اپنے استاد سے پوچھ لیں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. The three-times practice is widely taught from hadith. Confirm the wording and the count.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 3,
+          "ageMin": 5,
+          "ageMax": 10
+        },
+        {
+          "id": "after-prayer-2",
+          "title": "The peace dua after prayer",
+          "arabic": "ٱللَّٰهُمَّ أَنْتَ ٱلسَّلَامُ وَمِنْكَ ٱلسَّلَامُ تَبَارَكْتَ يَا ذَا ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+          "transliteration": "Allahumma antas salam wa minkas salam, tabarakta ya dhal jalali wal ikram.",
+          "translations": {
+            "en": "O Allah, You are Peace and from You is peace. Blessed are You, O Owner of majesty and honor.",
+            "ur": "اے اللہ، تو سلامتی ہے اور سلامتی تجھ ہی سے ہے۔ اے عزت اور بزرگی والے، تو بابرکت ہے۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Reported in Sahih Muslim after the tasleem. Confirm the number and the Arabic.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 7,
+          "ageMax": 10
+        },
+        {
+          "id": "after-prayer-3",
+          "title": "After-prayer praise, thirty-three",
+          "arabic": "سُبْحَانَ ٱللَّٰهِ",
+          "transliteration": "Subhana Allah.",
+          "translations": {
+            "en": "Allah is free from every flaw. The well-known practice is thirty-three times after prayer. Confirm it before teaching the count as fixed.",
+            "ur": "اللہ ہر نقص سے پاک ہے۔ نماز کے بعد مشہور عمل تینتیس بار ہے۔ تعداد کو ثابت ماننے سے پہلے حوالہ دیکھ لیں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Part of the after-prayer dhikr in Sahih Muslim. This item is only the first phrase, not the whole report.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 33,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "after-prayer-4",
+          "title": "After-prayer thanks, thirty-three",
+          "arabic": "ٱلْحَمْدُ لِلَّٰهِ",
+          "transliteration": "Al-hamdu lillah.",
+          "translations": {
+            "en": "All praise belongs to Allah. Commonly thirty-three times after the previous phrase.",
+            "ur": "تمام تعریف اللہ کے لیے ہے۔ عام طور پر پچھلے ذکر کے بعد تینتیس بار۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. Part of the same after-prayer report. Confirm the order and the final count in your edition.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 33,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "after-prayer-5",
+          "title": "After-prayer greatness",
+          "arabic": "ٱللَّٰهُ أَكْبَرُ",
+          "transliteration": "Allahu akbar.",
+          "translations": {
+            "en": "Allah is the greatest. Families often complete the set with thirty-three or thirty-four. A reviewer must choose the count from a checked hadith.",
+            "ur": "اللہ سب سے بڑا ہے۔ کچھ گھر تینتیس اور کچھ چونتیس مکمل کرتے ہیں۔ تعداد چیک شدہ حدیث سے طے کریں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. The count at the end of this dhikr is reported with a small difference. Do not freeze one number until the hadith is checked.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 33,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "after-prayer-6",
+          "title": "Ayat al-Kursi after prayer",
+          "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+          "transliteration": "Allahu la ilaha illa huwal hayyul qayyum.",
+          "translations": {
+            "en": "Read Ayat al-Kursi once after the prayer, with a parent if the child is still learning it.",
+            "ur": "نماز کے بعد آیت الکرسی ایک بار پڑھیں، سیکھتے ہوئے بڑے کے ساتھ۔"
+          },
+          "source": "Quran 2:255. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. Reports about reading it after every prayer need a graded reference before approval.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 7,
+          "ageMax": 10
+        },
+        {
+          "id": "after-prayer-7",
+          "title": "Surah Al-Ikhlas after prayer",
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ\nٱللَّهُ ٱلصَّمَدُ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nوَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+          "transliteration": "Qul huwallahu ahad.",
+          "translations": {
+            "en": "Read Surah Al-Ikhlas after prayer while learning it.",
+            "ur": "نماز کے بعد سیکھنے کے لیے سورۃ اخلاص پڑھیں۔"
+          },
+          "source": "Quran 112:1-4. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The basmala at the start is included because that API edition returns it with the first ayah. Do not add a special reward for this placement until a hadith is checked.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 6,
+          "ageMax": 10
+        },
+        {
+          "id": "after-prayer-8",
+          "title": "A quiet thanks after prayer",
+          "arabic": "ٱلْحَمْدُ لِلَّٰهِ",
+          "transliteration": "Al-hamdu lillah.",
+          "translations": {
+            "en": "All praise belongs to Allah. Sit calmly for a moment after the prayer.",
+            "ur": "تمام تعریف اللہ کے لیے ہے۔ نماز کے بعد ایک لمحہ خاموش بیٹھیں۔"
+          },
+          "source": "Draft wording for a parent or teacher to compare with a trusted book. Not marked verified. A simple thanks for children. It is not a replacement for the dhikr above.",
+          "audioUrl": null,
+          "verified": false,
+          "reviewedBy": null,
+          "reviewStatus": "needs_review",
+          "repeatCount": 1,
+          "ageMin": 4,
+          "ageMax": 10
+        }
+      ]
+    }
+  ]
+}

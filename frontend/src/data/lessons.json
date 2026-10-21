@@ -1,0 +1,604 @@
+{
+  "items": [
+    {
+      "id": "lesson-1",
+      "title": "What wudu is for",
+      "category": "wudu",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Wudu is a wash before salah. It helps our body and our heart get ready. We do it calmly, without splashing friends.",
+        "ur": "وضو نماز سے پہلے کی صفائی ہے۔ اس سے بدن اور دل تیار ہوتے ہیں۔ اسے سکون سے کریں، دوستوں پر پانی نہ اچھالیں۔"
+      },
+      "bodyEn": "Wudu is a wash before salah. It helps our body and our heart get ready. We do it calmly, without splashing friends.",
+      "bodyUr": "وضو نماز سے پہلے کی صفائی ہے۔ اس سے بدن اور دل تیار ہوتے ہیں۔ اسے سکون سے کریں، دوستوں پر پانی نہ اچھالیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-2",
+      "title": "The washes Allah named",
+      "category": "wudu",
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ",
+      "transliteration": "",
+      "translations": {
+        "en": "Quran 5:6 tells believers who stand for prayer to wash the face, wash the arms to the elbows, wipe the head, and wash the feet to the ankles. Some families also rinse the mouth and nose. Ask your parent which extra steps you copy.",
+        "ur": "سورۃ المائدہ 6 میں نماز کے لیے اٹھنے والوں کو منہ دھونے، کہنیوں تک ہاتھ دھونے، سر کا مسح کرنے اور ٹخنوں تک پاؤں دھونے کو کہا گیا ہے۔ کچھ گھر منہ اور ناک بھی دھوتے ہیں۔ اضافی عمل والدین سے پوچھیں۔"
+      },
+      "bodyEn": "Quran 5:6 tells believers who stand for prayer to wash the face, wash the arms to the elbows, wipe the head, and wash the feet to the ankles. Some families also rinse the mouth and nose. Ask your parent which extra steps you copy.",
+      "bodyUr": "سورۃ المائدہ 6 میں نماز کے لیے اٹھنے والوں کو منہ دھونے، کہنیوں تک ہاتھ دھونے، سر کا مسح کرنے اور ٹخنوں تک پاؤں دھونے کو کہا گیا ہے۔ کچھ گھر منہ اور ناک بھی دھوتے ہیں۔ اضافی عمل والدین سے پوچھیں۔",
+      "source": "Quran 5:6, the wudu portion. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-3",
+      "title": "Saying Bismillah at the tap",
+      "category": "wudu",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "transliteration": "",
+      "translations": {
+        "en": "Many families say Bismillah before wudu. The basmala is Quran 1:1. If your teacher uses a longer phrase, learn that phrase from them.",
+        "ur": "بہت سے گھر وضو سے پہلے بسم اللہ کہتے ہیں۔ بسملہ سورۃ الفاتحہ کی پہلی آیت ہے۔ اگر استاد لمبا جملہ سکھائیں تو وہی سیکھیں۔"
+      },
+      "bodyEn": "Many families say Bismillah before wudu. The basmala is Quran 1:1. If your teacher uses a longer phrase, learn that phrase from them.",
+      "bodyUr": "بہت سے گھر وضو سے پہلے بسم اللہ کہتے ہیں۔ بسملہ سورۃ الفاتحہ کی پہلی آیت ہے۔ اگر استاد لمبا جملہ سکھائیں تو وہی سیکھیں۔",
+      "source": "Quran 1:1. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-4",
+      "title": "Do not waste water",
+      "category": "wudu",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A little water is enough. Close the tap while you wipe. Wasting water is not part of being clean.",
+        "ur": "تھوڑا پانی کافی ہے۔ مسح کے وقت نل بند کر دیں۔ پانی ضائع کرنا صفائی کا حصہ نہیں۔"
+      },
+      "bodyEn": "A little water is enough. Close the tap while you wipe. Wasting water is not part of being clean.",
+      "bodyUr": "تھوڑا پانی کافی ہے۔ مسح کے وقت نل بند کر دیں۔ پانی ضائع کرنا صفائی کا حصہ نہیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-5",
+      "title": "When water is hard to use",
+      "category": "wudu",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Quran 5:6 also mentions tayammum with clean earth when water cannot be used. A parent must show this. Children should not wipe random dust without being taught.",
+        "ur": "سورۃ المائدہ 6 میں پانی نہ ملنے پر پاک مٹی سے تیمم کا ذکر بھی ہے۔ یہ والدین دکھائیں۔ بچہ خود سے مٹی نہ لگائے۔"
+      },
+      "bodyEn": "Quran 5:6 also mentions tayammum with clean earth when water cannot be used. A parent must show this. Children should not wipe random dust without being taught.",
+      "bodyUr": "سورۃ المائدہ 6 میں پانی نہ ملنے پر پاک مٹی سے تیمم کا ذکر بھی ہے۔ یہ والدین دکھائیں۔ بچہ خود سے مٹی نہ لگائے۔",
+      "source": "Quran 5:6. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval. The full verse is long; the Arabic field on the wudu lesson has the washing portion.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 8,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-6",
+      "title": "Five prayers in the day",
+      "category": "salah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The obligatory prayers are Fajr, Zuhr, Asr, Maghrib, and Isha. A parent calls the child when it is time. We do not guess the clock time from this page.",
+        "ur": "فرض نمازیں فجر، ظہر، عصر، مغرب اور عشاء ہیں۔ وقت پر والدین بلائیں۔ اس صفحے سے گھڑی کا وقت نہ ناپیں۔"
+      },
+      "bodyEn": "The obligatory prayers are Fajr, Zuhr, Asr, Maghrib, and Isha. A parent calls the child when it is time. We do not guess the clock time from this page.",
+      "bodyUr": "فرض نمازیں فجر، ظہر، عصر، مغرب اور عشاء ہیں۔ وقت پر والدین بلائیں۔ اس صفحے سے گھڑی کا وقت نہ ناپیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows. The five prayers are established in authentic hadith. Confirm the reference you want printed.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-7",
+      "title": "Face the Kaaba",
+      "category": "salah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "For salah we face the Kaaba in Makkah. At home, a parent shows the qibla. We do not turn toward a picture or a person.",
+        "ur": "نماز میں ہم مکہ کے کعبہ کی طرف رخ کرتے ہیں۔ گھر میں قبلہ والدین بتائیں۔ تصویر یا آدمی کی طرف رخ نہیں کرتے۔"
+      },
+      "bodyEn": "For salah we face the Kaaba in Makkah. At home, a parent shows the qibla. We do not turn toward a picture or a person.",
+      "bodyUr": "نماز میں ہم مکہ کے کعبہ کی طرف رخ کرتے ہیں۔ گھر میں قبلہ والدین بتائیں۔ تصویر یا آدمی کی طرف رخ نہیں کرتے۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-8",
+      "title": "A calm body in salah",
+      "category": "salah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Stand on a clean place. Keep your eyes lowered. Do not poke the person beside you. If you forget a movement, keep going calmly and ask afterward.",
+        "ur": "صاف جگہ کھڑے ہوں۔ نگاہ نیچی رکھیں۔ بغل والے کو نہ چھیڑیں۔ اگر کوئی حرکت بھول جائیں تو سکون سے آگے بڑھیں اور بعد میں پوچھیں۔"
+      },
+      "bodyEn": "Stand on a clean place. Keep your eyes lowered. Do not poke the person beside you. If you forget a movement, keep going calmly and ask afterward.",
+      "bodyUr": "صاف جگہ کھڑے ہوں۔ نگاہ نیچی رکھیں۔ بغل والے کو نہ چھیڑیں۔ اگر کوئی حرکت بھول جائیں تو سکون سے آگے بڑھیں اور بعد میں پوچھیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-9",
+      "title": "Learning the words",
+      "category": "salah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A child repeats Al-Fatiha with a parent. We never invent Arabic to fill a gap. If a word is hard, we slow down.",
+        "ur": "بچہ الفاتحہ والدین کے ساتھ دہرائے۔ خالی جگہ بھرنے کے لیے عربی خود نہیں بناتے۔ لفظ مشکل ہو تو آہستہ کریں۔"
+      },
+      "bodyEn": "A child repeats Al-Fatiha with a parent. We never invent Arabic to fill a gap. If a word is hard, we slow down.",
+      "bodyUr": "بچہ الفاتحہ والدین کے ساتھ دہرائے۔ خالی جگہ بھرنے کے لیے عربی خود نہیں بناتے۔ لفظ مشکل ہو تو آہستہ کریں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-10",
+      "title": "After the salaam",
+      "category": "salah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "When the prayer ends, sit for a short dhikr. The after-prayer items in Daily Azkar are drafts. Use only the ones your teacher has checked.",
+        "ur": "نماز ختم ہو تو تھوڑی دیر ذکر کے لیے بیٹھیں۔ اذکار کے بعد والی نماز والے مسودے ہیں۔ صرف وہ استعمال کریں جنہیں استاد چیک کر چکے ہوں۔"
+      },
+      "bodyEn": "When the prayer ends, sit for a short dhikr. The after-prayer items in Daily Azkar are drafts. Use only the ones your teacher has checked.",
+      "bodyUr": "نماز ختم ہو تو تھوڑی دیر ذکر کے لیے بیٹھیں۔ اذکار کے بعد والی نماز والے مسودے ہیں۔ صرف وہ استعمال کریں جنہیں استاد چیک کر چکے ہوں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-11",
+      "title": "Clean clothes",
+      "category": "cleanliness",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Clean clothes and a clean prayer place are part of getting ready. A small stain is not a disaster. Ask a parent if you are unsure.",
+        "ur": "صاف کپڑے اور صاف جائے نماز تیاری کا حصہ ہیں۔ چھوٹا داغ کوئی آفت نہیں۔ شک ہو تو والدین سے پوچھیں۔"
+      },
+      "bodyEn": "Clean clothes and a clean prayer place are part of getting ready. A small stain is not a disaster. Ask a parent if you are unsure.",
+      "bodyUr": "صاف کپڑے اور صاف جائے نماز تیاری کا حصہ ہیں۔ چھوٹا داغ کوئی آفت نہیں۔ شک ہو تو والدین سے پوچھیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 3,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-12",
+      "title": "The bathroom",
+      "category": "cleanliness",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "We enter the bathroom with the foot your family teaches, and we leave clean. We do not recite Quran inside. A parent teaches the short entrance words if they use them.",
+        "ur": "بیت الخلا میں وہ پاؤں رکھیں جو گھر سکھائے، اور صاف ہو کر نکلیں۔ اندر قرآن نہیں پڑھتے۔ داخلے کے مختصر الفاظ والدین سکھائیں اگر وہ استعمال کرتے ہوں۔"
+      },
+      "bodyEn": "We enter the bathroom with the foot your family teaches, and we leave clean. We do not recite Quran inside. A parent teaches the short entrance words if they use them.",
+      "bodyUr": "بیت الخلا میں وہ پاؤں رکھیں جو گھر سکھائے، اور صاف ہو کر نکلیں۔ اندر قرآن نہیں پڑھتے۔ داخلے کے مختصر الفاظ والدین سکھائیں اگر وہ استعمال کرتے ہوں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-13",
+      "title": "Hands before food",
+      "category": "cleanliness",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "transliteration": "",
+      "translations": {
+        "en": "Wash your hands before you eat. Say Bismillah. If you forget, the eating azkar include a draft phrase to check.",
+        "ur": "کھانے سے پہلے ہاتھ دھوئیں۔ بسم اللہ کہیں۔ بھول جائیں تو کھانے کے اذکار میں ایک مسودہ جملہ ہے جسے چیک کرنا ہے۔"
+      },
+      "bodyEn": "Wash your hands before you eat. Say Bismillah. If you forget, the eating azkar include a draft phrase to check.",
+      "bodyUr": "کھانے سے پہلے ہاتھ دھوئیں۔ بسم اللہ کہیں۔ بھول جائیں تو کھانے کے اذکار میں ایک مسودہ جملہ ہے جسے چیک کرنا ہے۔",
+      "source": "Quran 1:1 for the basmala. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 3,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-14",
+      "title": "Kind words",
+      "category": "kindness",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A kind word is a gift. We do not copy unkind jokes. If we hurt someone, we say sorry on the same day.",
+        "ur": "نرم بات ایک تحفہ ہے۔ برے مذاق نہیں نقل کرتے۔ کسی کو دکھ ہو تو اسی دن معافی مانگیں۔"
+      },
+      "bodyEn": "A kind word is a gift. We do not copy unkind jokes. If we hurt someone, we say sorry on the same day.",
+      "bodyUr": "نرم بات ایک تحفہ ہے۔ برے مذاق نہیں نقل کرتے۔ کسی کو دکھ ہو تو اسی دن معافی مانگیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-15",
+      "title": "Helping at home",
+      "category": "kindness",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Carrying a plate, folding a scarf, or bringing a glass of water is worship when we do it for Allah. No special hadith is quoted here.",
+        "ur": "پلیٹ اٹھانا، اسکارف تہہ کرنا، یا پانی لانا اللہ کے لیے ہو تو عبادت ہے۔ یہاں کوئی خاص حدیث نقل نہیں۔"
+      },
+      "bodyEn": "Carrying a plate, folding a scarf, or bringing a glass of water is worship when we do it for Allah. No special hadith is quoted here.",
+      "bodyUr": "پلیٹ اٹھانا، اسکارف تہہ کرنا، یا پانی لانا اللہ کے لیے ہو تو عبادت ہے۔ یہاں کوئی خاص حدیث نقل نہیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-16",
+      "title": "The truth",
+      "category": "honesty",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "If you break something, say what happened. A lie makes a second problem. Parents can help clean the first one.",
+        "ur": "اگر کوئی چیز ٹوٹ جائے تو جو ہوا وہ بتائیں۔ جھوٹ دوسرا مسئلہ بناتا ہے۔ پہلا مسئلہ والدین صاف کرنے میں مدد کرتے ہیں۔"
+      },
+      "bodyEn": "If you break something, say what happened. A lie makes a second problem. Parents can help clean the first one.",
+      "bodyUr": "اگر کوئی چیز ٹوٹ جائے تو جو ہوا وہ بتائیں۔ جھوٹ دوسرا مسئلہ بناتا ہے۔ پہلا مسئلہ والدین صاف کرنے میں مدد کرتے ہیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-17",
+      "title": "Other people's things",
+      "category": "honesty",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A pencil that is not yours stays where it is, unless you are borrowing it with permission. We return what we borrow.",
+        "ur": "جو پنسل آپ کی نہیں وہ وہیں رہے، جب تک اجازت سے ادھار نہ لیں۔ ادھار واپس کرتے ہیں۔"
+      },
+      "bodyEn": "A pencil that is not yours stays where it is, unless you are borrowing it with permission. We return what we borrow.",
+      "bodyUr": "جو پنسل آپ کی نہیں وہ وہیں رہے، جب تک اجازت سے ادھار نہ لیں۔ ادھار واپس کرتے ہیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-18",
+      "title": "Parents grow tired",
+      "category": "parents",
+      "arabic": "۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّۢ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًۭا كَرِيمًۭا",
+      "transliteration": "",
+      "translations": {
+        "en": "Quran 17:23 says not to say \"uff\" to parents and to speak a kind word. When they are tired, we use a soft voice and help with one small job.",
+        "ur": "سورۃ الاسراء 23 کہتی ہے کہ والدین کو اف نہ کہو اور اچھی بات کرو۔ جب وہ تھکے ہوں تو نرم آواز اور ایک چھوٹا کام ان کی مدد ہے۔"
+      },
+      "bodyEn": "Quran 17:23 says not to say \"uff\" to parents and to speak a kind word. When they are tired, we use a soft voice and help with one small job.",
+      "bodyUr": "سورۃ الاسراء 23 کہتی ہے کہ والدین کو اف نہ کہو اور اچھی بات کرو۔ جب وہ تھکے ہوں تو نرم آواز اور ایک چھوٹا کام ان کی مدد ہے۔",
+      "source": "Quran 17:23. Arabic, Saheeh International English, and Fateh Muhammad Jalandhry Urdu were copied from api.alquran.cloud on 2026-10-20. Compare them with a printed mushaf before approval.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-19",
+      "title": "Listening the first time",
+      "category": "parents",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "When a parent calls, we answer. If we are in the middle of a game, we pause. This is respect, not a race.",
+        "ur": "جب والدین بلائیں تو جواب دیں۔ کھیل کے بیچ میں ہوں تو رکیے۔ یہ عزت ہے، دوڑ نہیں۔"
+      },
+      "bodyEn": "When a parent calls, we answer. If we are in the middle of a game, we pause. This is respect, not a race.",
+      "bodyUr": "جب والدین بلائیں تو جواب دیں۔ کھیل کے بیچ میں ہوں تو رکیے۔ یہ عزت ہے، دوڑ نہیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-20",
+      "title": "Sharing toys",
+      "category": "sharing",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Two children and one truck can take turns. Count to ten, then swap. Sharing is practiced, not perfect on the first day.",
+        "ur": "دو بچے اور ایک ٹرک باری سے چل سکتا ہے۔ دس تک گنیں، پھر بدل لیں۔ بانٹنا مشق ہے، پہلے دن کامل نہیں ہوتا۔"
+      },
+      "bodyEn": "Two children and one truck can take turns. Count to ten, then swap. Sharing is practiced, not perfect on the first day.",
+      "bodyUr": "دو بچے اور ایک ٹرک باری سے چل سکتا ہے۔ دس تک گنیں، پھر بدل لیں۔ بانٹنا مشق ہے، پہلے دن کامل نہیں ہوتا۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 3,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-21",
+      "title": "A bigger piece",
+      "category": "sharing",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Offer the bigger piece first. You can still enjoy yours. We do not quote a hadith here until one is checked.",
+        "ur": "بڑا ٹکڑا پہلے پیش کریں۔ اپنا ٹکڑا پھر بھی اچھا لگے گا۔ حدیث اس وقت تک نقل نہیں کرتے جب تک چیک نہ ہو۔"
+      },
+      "bodyEn": "Offer the bigger piece first. You can still enjoy yours. We do not quote a hadith here until one is checked.",
+      "bodyUr": "بڑا ٹکڑا پہلے پیش کریں۔ اپنا ٹکڑا پھر بھی اچھا لگے گا۔ حدیث اس وقت تک نقل نہیں کرتے جب تک چیک نہ ہو۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-22",
+      "title": "Alhamdulillah for small things",
+      "category": "gratitude",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A cup of water, a blanket, and a safe home are gifts. Say Alhamdulillah for one of them each morning.",
+        "ur": "پانی کا گلاس، کمبل، اور محفوظ گھر نعمتیں ہیں۔ ہر صبح ان میں سے ایک پر الحمد للہ کہیں۔"
+      },
+      "bodyEn": "A cup of water, a blanket, and a safe home are gifts. Say Alhamdulillah for one of them each morning.",
+      "bodyUr": "پانی کا گلاس، کمبل، اور محفوظ گھر نعمتیں ہیں۔ ہر صبح ان میں سے ایک پر الحمد للہ کہیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-23",
+      "title": "Thank the person too",
+      "category": "gratitude",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Thank Allah, and thank the person who helped. Both can be true.",
+        "ur": "اللہ کا شکر کریں، اور جس نے مدد کی اس کا بھی شکریہ کہیں۔ دونوں ٹھیک ہو سکتے ہیں۔"
+      },
+      "bodyEn": "Thank Allah, and thank the person who helped. Both can be true.",
+      "bodyUr": "اللہ کا شکر کریں، اور جس نے مدد کی اس کا بھی شکریہ کہیں۔ دونوں ٹھیک ہو سکتے ہیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-24",
+      "title": "Salam first",
+      "category": "daily-life",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Assalamu alaykum is the first word at the door. Wait for the answer. Then talk.",
+        "ur": "دروازے پر پہلا لفظ السلام علیکم ہے۔ جواب کا انتظار کریں۔ پھر بات کریں۔"
+      },
+      "bodyEn": "Assalamu alaykum is the first word at the door. Wait for the answer. Then talk.",
+      "bodyUr": "دروازے پر پہلا لفظ السلام علیکم ہے۔ جواب کا انتظار کریں۔ پھر بات کریں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 3,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-25",
+      "title": "Mosque manners",
+      "category": "daily-life",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Walk, do not race. Phones stay quiet. Shoes go where your family puts them. Sit where a grown-up shows you.",
+        "ur": "چلیں، دوڑ نہیں۔ فون خاموش رہے۔ جوتے وہاں رکھیں جہاں گھر والے رکھتے ہیں۔ جہاں بڑا بتائے وہاں بیٹھیں۔"
+      },
+      "bodyEn": "Walk, do not race. Phones stay quiet. Shoes go where your family puts them. Sit where a grown-up shows you.",
+      "bodyUr": "چلیں، دوڑ نہیں۔ فون خاموش رہے۔ جوتے وہاں رکھیں جہاں گھر والے رکھتے ہیں۔ جہاں بڑا بتائے وہاں بیٹھیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-26",
+      "title": "Ramadan for little children",
+      "category": "daily-life",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Little children do not have to fast the whole day. They can help with iftar, share dates, and keep their voices kind. A parent decides any practice fast.",
+        "ur": "چھوٹے بچوں پر پورا دن روزہ لازم نہیں۔ وہ افطار میں مدد، کھجور بانٹنے، اور نرم آواز رکھ سکتے ہیں۔ کوئی مشق والا روزہ والدین طے کریں۔"
+      },
+      "bodyEn": "Little children do not have to fast the whole day. They can help with iftar, share dates, and keep their voices kind. A parent decides any practice fast.",
+      "bodyUr": "چھوٹے بچوں پر پورا دن روزہ لازم نہیں۔ وہ افطار میں مدد، کھجور بانٹنے، اور نرم آواز رکھ سکتے ہیں۔ کوئی مشق والا روزہ والدین طے کریں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-27",
+      "title": "Animals and insects",
+      "category": "daily-life",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "We do not pull tails or crush ants for fun. Sulayman's ant is a Quran story about care. Confirm Quran 27:18 before telling it as recitation.",
+        "ur": "ہم مذاق میں دم نہیں کھینچتے اور چیونٹی نہیں کچلتے۔ سلیمان کی چیونٹی قرآن کا خیال رکھنے والا قصہ ہے۔ تلاوت کے طور پر سنانے سے پہلے سورۃ النمل 18 دیکھیں۔"
+      },
+      "bodyEn": "We do not pull tails or crush ants for fun. Sulayman's ant is a Quran story about care. Confirm Quran 27:18 before telling it as recitation.",
+      "bodyUr": "ہم مذاق میں دم نہیں کھینچتے اور چیونٹی نہیں کچلتے۔ سلیمان کی چیونٹی قرآن کا خیال رکھنے والا قصہ ہے۔ تلاوت کے طور پر سنانے سے پہلے سورۃ النمل 18 دیکھیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-28",
+      "title": "Asking forgiveness",
+      "category": "daily-life",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Astaghfirullah is a short way to ask Allah for forgiveness. The longer sayyidul istighfar is in the morning azkar as a draft. Use the short phrase until the long one is checked.",
+        "ur": "استغفراللہ اللہ سے مختصر معافی ہے۔ لمبا سید الاستغفار صبح کے اذکار میں مسودہ ہے۔ لمبا جملہ چیک ہونے تک مختصر جملہ استعمال کریں۔"
+      },
+      "bodyEn": "Astaghfirullah is a short way to ask Allah for forgiveness. The longer sayyidul istighfar is in the morning azkar as a draft. Use the short phrase until the long one is checked.",
+      "bodyUr": "استغفراللہ اللہ سے مختصر معافی ہے۔ لمبا سید الاستغفار صبح کے اذکار میں مسودہ ہے۔ لمبا جملہ چیک ہونے تک مختصر جملہ استعمال کریں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-29",
+      "title": "Friends who are left out",
+      "category": "daily-life",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "If a child is standing alone, invite them into the game. One extra turn is enough. We do not need a pointed hadith to know this is kind.",
+        "ur": "اگر کوئی بچہ اکیلا کھڑا ہو تو اسے کھیل میں بلائیں۔ ایک اضافی باری کافی ہے۔ مہربانی کے لیے کسی خاص حدیث کا انتظار ضروری نہیں۔"
+      },
+      "bodyEn": "If a child is standing alone, invite them into the game. One extra turn is enough. We do not need a pointed hadith to know this is kind.",
+      "bodyUr": "اگر کوئی بچہ اکیلا کھڑا ہو تو اسے کھیل میں بلائیں۔ ایک اضافی باری کافی ہے۔ مہربانی کے لیے کسی خاص حدیث کا انتظار ضروری نہیں۔",
+      "source": "Draft lesson for ages 3–10. It is not a fatwa. A parent or teacher should confirm the practice their family follows.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "lesson-30",
+      "title": "When you are not sure",
+      "category": "daily-life",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "If a lesson, a dua, or a story feels uncertain, stop and ask a parent or a teacher. Little Noor would rather show a draft than invent a verse.",
+        "ur": "اگر کوئی سبق، دعا یا کہانی غیر یقینی لگے تو رکیں اور والدین یا استاد سے پوچھیں۔ لٹل نور آیت بنانے کے بجائے مسودہ دکھانا پسند کرتا ہے۔"
+      },
+      "bodyEn": "If a lesson, a dua, or a story feels uncertain, stop and ask a parent or a teacher. Little Noor would rather show a draft than invent a verse.",
+      "bodyUr": "اگر کوئی سبق، دعا یا کہانی غیر یقینی لگے تو رکیں اور والدین یا استاد سے پوچھیں۔ لٹل نور آیت بنانے کے بجائے مسودہ دکھانا پسند کرتا ہے۔",
+      "source": "Project rule for this library. Not a religious source.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    }
+  ]
+}

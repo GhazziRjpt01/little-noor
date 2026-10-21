@@ -1,0 +1,424 @@
+{
+  "items": [
+    {
+      "id": "story-1",
+      "title": "Adam learns to say sorry",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Allah taught Adam the names of things and made him the first prophet. When Adam and his wife made a mistake, they asked Allah to forgive them. Allah is the One who accepts a sincere sorry. A parent can read the story from Surah Al-Baqarah with an older child.",
+        "ur": "اللہ نے آدم کو چیزوں کے نام سکھائے اور انہیں پہلا نبی بنایا۔ جب آدم اور ان کی بیوی سے بھول ہوئی تو انہوں نے اللہ سے معافی مانگی۔ اللہ سچی معافی قبول کرتا ہے۔ بڑا بچہ یہ قصہ سورۃ البقرہ سے والدین کے ساتھ پڑھ سکتا ہے۔"
+      },
+      "bodyEn": "Allah taught Adam the names of things and made him the first prophet. When Adam and his wife made a mistake, they asked Allah to forgive them. Allah is the One who accepts a sincere sorry. A parent can read the story from Surah Al-Baqarah with an older child.",
+      "bodyUr": "اللہ نے آدم کو چیزوں کے نام سکھائے اور انہیں پہلا نبی بنایا۔ جب آدم اور ان کی بیوی سے بھول ہوئی تو انہوں نے اللہ سے معافی مانگی۔ اللہ سچی معافی قبول کرتا ہے۔ بڑا بچہ یہ قصہ سورۃ البقرہ سے والدین کے ساتھ پڑھ سکتا ہے۔",
+      "lessonLearned": "When we make a mistake, we say sorry to Allah and try again.",
+      "source": "Quran 2:30-38. Do not add dialogue that is not in the passage you read.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "story-2",
+      "title": "Nuh and the big boat",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Prophet Nuh called his people to worship Allah for a long time. Many of them refused. Allah told him to build a ship. The people who trusted Allah went aboard, and Allah saved them. Little children do not need the frightening parts.",
+        "ur": "نبی نوح نے اپنی قوم کو بہت دیر تک اللہ کی عبادت کی طرف بلایا۔ بہت سے لوگوں نے انکار کیا۔ اللہ نے انہیں کشتی بنانے کو کہا۔ جو لوگ اللہ پر بھروسہ کرتے تھے وہ کشتی میں سوار ہوئے اور اللہ نے انہیں بچایا۔ چھوٹے بچوں کو ڈراؤنا حصہ نہیں سنانا۔"
+      },
+      "bodyEn": "Prophet Nuh called his people to worship Allah for a long time. Many of them refused. Allah told him to build a ship. The people who trusted Allah went aboard, and Allah saved them. Little children do not need the frightening parts.",
+      "bodyUr": "نبی نوح نے اپنی قوم کو بہت دیر تک اللہ کی عبادت کی طرف بلایا۔ بہت سے لوگوں نے انکار کیا۔ اللہ نے انہیں کشتی بنانے کو کہا۔ جو لوگ اللہ پر بھروسہ کرتے تھے وہ کشتی میں سوار ہوئے اور اللہ نے انہیں بچایا۔ چھوٹے بچوں کو ڈراؤنا حصہ نہیں سنانا۔",
+      "lessonLearned": "Keep calling people to good, and trust Allah.",
+      "source": "Surah Nuh and Surah Hud. A reviewer should choose the verses for the age group.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "story-3",
+      "title": "Ibrahim looks for the true God",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Prophet Ibrahim saw that a star, the moon, and the sun all disappear. He knew that the true God does not set. He worshipped Allah alone, even when his people were angry.",
+        "ur": "نبی ابراہیم نے دیکھا کہ ستارہ، چاند اور سورج سب غروب ہو جاتے ہیں۔ انہوں نے جانا کہ سچا معبود غروب نہیں ہوتا۔ انہوں نے اکیلے اللہ کی عبادت کی، چاہے لوگ ناراض ہوں۔"
+      },
+      "bodyEn": "Prophet Ibrahim saw that a star, the moon, and the sun all disappear. He knew that the true God does not set. He worshipped Allah alone, even when his people were angry.",
+      "bodyUr": "نبی ابراہیم نے دیکھا کہ ستارہ، چاند اور سورج سب غروب ہو جاتے ہیں۔ انہوں نے جانا کہ سچا معبود غروب نہیں ہوتا۔ انہوں نے اکیلے اللہ کی عبادت کی، چاہے لوگ ناراض ہوں۔",
+      "lessonLearned": "Allah alone is the One who does not disappear.",
+      "source": "Quran 6:74-83. Confirm the verses. Do not add insults or violence for young children.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "story-4",
+      "title": "Ibrahim and Ismail raise the House",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Ibrahim and his son Ismail raised the walls of the Kaaba. They asked Allah to accept their work. People still travel to that House to worship Allah alone.",
+        "ur": "ابراہیم اور ان کے بیٹے اسماعیل نے کعبہ کی دیواریں اٹھائیں۔ انہوں نے اللہ سے اپنے کام کی قبولیت مانگی۔ لوگ آج بھی اس گھر کی طرف اکیلے اللہ کی عبادت کے لیے آتے ہیں۔"
+      },
+      "bodyEn": "Ibrahim and his son Ismail raised the walls of the Kaaba. They asked Allah to accept their work. People still travel to that House to worship Allah alone.",
+      "bodyUr": "ابراہیم اور ان کے بیٹے اسماعیل نے کعبہ کی دیواریں اٹھائیں۔ انہوں نے اللہ سے اپنے کام کی قبولیت مانگی۔ لوگ آج بھی اس گھر کی طرف اکیلے اللہ کی عبادت کے لیے آتے ہیں۔",
+      "lessonLearned": "Work for Allah, and ask Him to accept it.",
+      "source": "Quran 2:127. Arabic copied from api.alquran.cloud: وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "story-5",
+      "title": "Yusuf tells the truth",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Prophet Yusuf was kind, and his brothers became jealous. The Quran tells how Allah protected him and how he later forgave his brothers. Read Surah Yusuf with a parent. Skip the parts that are too grown-up.",
+        "ur": "نبی یوسف مہربان تھے، اور ان کے بھائی جل گئے۔ قرآن بتاتا ہے کہ اللہ نے ان کی حفاظت کی اور بعد میں انہوں نے بھائیوں کو معاف کر دیا۔ سورۃ یوسف والدین کے ساتھ پڑھیں۔ جو حصہ بڑا ہو اسے چھوڑ دیں۔"
+      },
+      "bodyEn": "Prophet Yusuf was kind, and his brothers became jealous. The Quran tells how Allah protected him and how he later forgave his brothers. Read Surah Yusuf with a parent. Skip the parts that are too grown-up.",
+      "bodyUr": "نبی یوسف مہربان تھے، اور ان کے بھائی جل گئے۔ قرآن بتاتا ہے کہ اللہ نے ان کی حفاظت کی اور بعد میں انہوں نے بھائیوں کو معاف کر دیا۔ سورۃ یوسف والدین کے ساتھ پڑھیں۔ جو حصہ بڑا ہو اسے چھوڑ دیں۔",
+      "lessonLearned": "Tell the truth, and forgiveness is strong.",
+      "source": "Surah Yusuf. This retelling adds no quoted speech.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 8,
+      "ageMax": 10
+    },
+    {
+      "id": "story-6",
+      "title": "Musa's mother trusts Allah",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "When Musa was a baby, his mother was afraid. Allah told her He would return the baby to her. She trusted Allah, and Allah brought Musa back to her arms.",
+        "ur": "جب موسیٰ بچے تھے تو ان کی ماں ڈری ہوئی تھیں۔ اللہ نے فرمایا کہ وہ بچہ انہیں واپس دے گا۔ انہوں نے اللہ پر بھروسہ کیا، اور اللہ نے موسیٰ کو ان کی گود میں واپس کیا۔"
+      },
+      "bodyEn": "When Musa was a baby, his mother was afraid. Allah told her He would return the baby to her. She trusted Allah, and Allah brought Musa back to her arms.",
+      "bodyUr": "جب موسیٰ بچے تھے تو ان کی ماں ڈری ہوئی تھیں۔ اللہ نے فرمایا کہ وہ بچہ انہیں واپس دے گا۔ انہوں نے اللہ پر بھروسہ کیا، اور اللہ نے موسیٰ کو ان کی گود میں واپس کیا۔",
+      "lessonLearned": "A parent's trust in Allah is a quiet kind of courage.",
+      "source": "Quran 20:38-40 and 28:7-13. Confirm the verses. No extra scene was added.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "story-7",
+      "title": "Musa walks with a teacher",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Musa traveled to learn from a servant of Allah. Some events looked strange until the teacher explained them. The Quran does not give that teacher a name in the passage itself. We wait for a parent before adding any name.",
+        "ur": "موسیٰ اللہ کے ایک بندے سے سیکھنے گئے۔ کچھ باتیں عجیب لگیں، پھر استاد نے انہیں سمجھایا۔ اس حصے میں قرآن نے استاد کا نام نہیں لیا۔ نام جوڑنے سے پہلے والدین سے پوچھیں۔"
+      },
+      "bodyEn": "Musa traveled to learn from a servant of Allah. Some events looked strange until the teacher explained them. The Quran does not give that teacher a name in the passage itself. We wait for a parent before adding any name.",
+      "bodyUr": "موسیٰ اللہ کے ایک بندے سے سیکھنے گئے۔ کچھ باتیں عجیب لگیں، پھر استاد نے انہیں سمجھایا۔ اس حصے میں قرآن نے استاد کا نام نہیں لیا۔ نام جوڑنے سے پہلے والدین سے پوچھیں۔",
+      "lessonLearned": "A student stays humble and asks.",
+      "source": "Quran 18:60-82. Do not name the teacher from later reports until those reports are checked.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 8,
+      "ageMax": 10
+    },
+    {
+      "id": "story-8",
+      "title": "Dawud remembers Allah",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Prophet Dawud was given the Zabur and a beautiful voice for remembering Allah. He was also a king who had to be fair. Children can learn that a strong person still needs salah and fairness.",
+        "ur": "نبی داؤد کو زبور ملی اور اللہ کو یاد کرنے کی خوبصورت آواز ملی۔ وہ بادشاہ بھی تھے جنہیں انصاف کرنا تھا۔ بچے سیکھ سکتے ہیں کہ طاقتور آدمی کو بھی نماز اور انصاف چاہیے۔"
+      },
+      "bodyEn": "Prophet Dawud was given the Zabur and a beautiful voice for remembering Allah. He was also a king who had to be fair. Children can learn that a strong person still needs salah and fairness.",
+      "bodyUr": "نبی داؤد کو زبور ملی اور اللہ کو یاد کرنے کی خوبصورت آواز ملی۔ وہ بادشاہ بھی تھے جنہیں انصاف کرنا تھا۔ بچے سیکھ سکتے ہیں کہ طاقتور آدمی کو بھی نماز اور انصاف چاہیے۔",
+      "lessonLearned": "Strength still bows to Allah.",
+      "source": "Quran 17:55 and 38:17-26. Leave out the harder court story for little children.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "story-9",
+      "title": "Sulayman and the ant",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Prophet Sulayman could understand birds. One day an ant warned the other ants to move aside so they would not be harmed. Sulayman smiled and thanked Allah. He did not crush the tiny creatures.",
+        "ur": "نبی سلیمان پرندوں کی بات سمجھتے تھے۔ ایک دن ایک چیونٹی نے دوسری چیونٹیوں کو خبردار کیا کہ ہٹ جاؤ تاکہ انہیں نقصان نہ پہنچے۔ سلیمان مسکرائے اور اللہ کا شکر کیا۔ انہوں نے چھوٹے جانوروں کو نہیں کچلا۔"
+      },
+      "bodyEn": "Prophet Sulayman could understand birds. One day an ant warned the other ants to move aside so they would not be harmed. Sulayman smiled and thanked Allah. He did not crush the tiny creatures.",
+      "bodyUr": "نبی سلیمان پرندوں کی بات سمجھتے تھے۔ ایک دن ایک چیونٹی نے دوسری چیونٹیوں کو خبردار کیا کہ ہٹ جاؤ تاکہ انہیں نقصان نہ پہنچے۔ سلیمان مسکرائے اور اللہ کا شکر کیا۔ انہوں نے چھوٹے جانوروں کو نہیں کچلا۔",
+      "lessonLearned": "Notice small creatures, and thank Allah.",
+      "source": "Quran 27:16-19. Confirm the verses before acting the story out.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "story-10",
+      "title": "Yunus calls from the dark",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Prophet Yunus left his people when he was upset. He ended up in a dark place and called to Allah: there is no god except You, glory be to You, I have been among the wrongdoers. Allah saved him. Teach the meaning before the Arabic.",
+        "ur": "نبی یونس اپنی قوم سے ناراض ہو کر نکلے۔ وہ ایک اندھیری جگہ پہنچے اور اللہ کو پکارا: تیرے سوا کوئی معبود نہیں، تو پاک ہے، میں غلط کرنے والوں میں تھا۔ اللہ نے انہیں بچایا۔ عربی سے پہلے مطلب سکھائیں۔"
+      },
+      "bodyEn": "Prophet Yunus left his people when he was upset. He ended up in a dark place and called to Allah: there is no god except You, glory be to You, I have been among the wrongdoers. Allah saved him. Teach the meaning before the Arabic.",
+      "bodyUr": "نبی یونس اپنی قوم سے ناراض ہو کر نکلے۔ وہ ایک اندھیری جگہ پہنچے اور اللہ کو پکارا: تیرے سوا کوئی معبود نہیں، تو پاک ہے، میں غلط کرنے والوں میں تھا۔ اللہ نے انہیں بچایا۔ عربی سے پہلے مطلب سکھائیں۔",
+      "lessonLearned": "When we are lost, we call Allah and do not give up.",
+      "source": "Quran 21:87. The Arabic of the dua was not fetched into this draft, so it is not pasted here.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "story-11",
+      "title": "Isa speaks with mercy",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The Quran says Isa was a prophet and a word from Allah to Maryam. As a baby he spoke to defend his mother. He taught people to worship Allah. Muslims love him and do not worship him.",
+        "ur": "قرآن کہتا ہے کہ عیسیٰ نبی تھے اور مریم کی طرف اللہ کی طرف سے ایک کلمہ تھے۔ انہوں نے بچپن میں اپنی ماں کا دفاع کیا۔ انہوں نے لوگوں کو اللہ کی عبادت سکھائی۔ مسلمان انہیں مانتے ہیں اور ان کی عبادت نہیں کرتے۔"
+      },
+      "bodyEn": "The Quran says Isa was a prophet and a word from Allah to Maryam. As a baby he spoke to defend his mother. He taught people to worship Allah. Muslims love him and do not worship him.",
+      "bodyUr": "قرآن کہتا ہے کہ عیسیٰ نبی تھے اور مریم کی طرف اللہ کی طرف سے ایک کلمہ تھے۔ انہوں نے بچپن میں اپنی ماں کا دفاع کیا۔ انہوں نے لوگوں کو اللہ کی عبادت سکھائی۔ مسلمان انہیں مانتے ہیں اور ان کی عبادت نہیں کرتے۔",
+      "lessonLearned": "Love the prophets, and worship only Allah.",
+      "source": "Quran 19:29-34 and 3:45. Confirm the verses. Do not import stories from other scriptures without review.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "story-12",
+      "title": "A gentle boy in Makkah",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Before prophethood, Muhammad was known among his people as an honest young man. He looked after sheep and helped his family. This lesson uses the character people remembered. A seerah book should be named before more details are added.",
+        "ur": "نبوت سے پہلے محمد اپنی قوم میں ایک سچے نوجوان کے طور پر جانے جاتے تھے۔ وہ بکریاں چراتے اور گھر والوں کی مدد کرتے تھے۔ یہ سبق اس اخلاق کا ہے جو لوگ یاد رکھتے تھے۔ مزید تفصیل سے پہلے سیرت کی کتاب کا نام لکھیں۔"
+      },
+      "bodyEn": "Before prophethood, Muhammad was known among his people as an honest young man. He looked after sheep and helped his family. This lesson uses the character people remembered. A seerah book should be named before more details are added.",
+      "bodyUr": "نبوت سے پہلے محمد اپنی قوم میں ایک سچے نوجوان کے طور پر جانے جاتے تھے۔ وہ بکریاں چراتے اور گھر والوں کی مدد کرتے تھے۔ یہ سبق اس اخلاق کا ہے جو لوگ یاد رکھتے تھے۔ مزید تفصیل سے پہلے سیرت کی کتاب کا نام لکھیں۔",
+      "lessonLearned": "Honesty shows before anyone gives you a title.",
+      "source": "Standard seerah description. Needs a named children's seerah book.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "story-13",
+      "title": "The word Read",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "In the cave of Hira, the first revealed word is remembered as Iqra: Read. The Prophet repeated that he could not read, and then the words of Surah Al-Alaq came. We do not paste the Arabic here because it was not copied from a fetched mushaf text in this draft.",
+        "ur": "غارِ حرا میں پہلا لفظ اقراء یاد کیا جاتا ہے: پڑھو۔ نبی نے کہا کہ میں پڑھ نہیں سکتا، پھر سورۃ العلق کے الفاظ آئے۔ اس مسودے میں عربی اس لیے نہیں ہے کہ اسے مصحف کے API متن سے نقل نہیں کیا گیا۔"
+      },
+      "bodyEn": "In the cave of Hira, the first revealed word is remembered as Iqra: Read. The Prophet repeated that he could not read, and then the words of Surah Al-Alaq came. We do not paste the Arabic here because it was not copied from a fetched mushaf text in this draft.",
+      "bodyUr": "غارِ حرا میں پہلا لفظ اقراء یاد کیا جاتا ہے: پڑھو۔ نبی نے کہا کہ میں پڑھ نہیں سکتا، پھر سورۃ العلق کے الفاظ آئے۔ اس مسودے میں عربی اس لیے نہیں ہے کہ اسے مصحف کے API متن سے نقل نہیں کیا گیا۔",
+      "lessonLearned": "Learning begins with trying, and with Allah's help.",
+      "source": "Surah 96:1-5. Fetch the Arabic before teaching the recitation.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "story-14",
+      "title": "Kindness to children",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Muslims remember that the Prophet was gentle with children. He did not shame them for small mistakes. A reviewer should add one checked hadith, such as a report from Sahih al-Bukhari, instead of a made-up scene.",
+        "ur": "مسلمان یاد رکھتے ہیں کہ نبی بچوں کے ساتھ نرم تھے۔ وہ چھوٹی بھول پر انہیں شرمندہ نہیں کرتے تھے۔ جائزہ لینے والا کوئی چیک شدہ حدیث لگائے، بخاری جیسی کتاب سے، خود کوئی منظر نہ بنائے۔"
+      },
+      "bodyEn": "Muslims remember that the Prophet was gentle with children. He did not shame them for small mistakes. A reviewer should add one checked hadith, such as a report from Sahih al-Bukhari, instead of a made-up scene.",
+      "bodyUr": "مسلمان یاد رکھتے ہیں کہ نبی بچوں کے ساتھ نرم تھے۔ وہ چھوٹی بھول پر انہیں شرمندہ نہیں کرتے تھے۔ جائزہ لینے والا کوئی چیک شدہ حدیث لگائے، بخاری جیسی کتاب سے، خود کوئی منظر نہ بنائے۔",
+      "lessonLearned": "Little mistakes need teaching, not shame.",
+      "source": "Seerah theme. No specific hadith text is quoted until a reviewer adds one.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "story-15",
+      "title": "A shared plate",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A family can put food in the middle and eat together after saying Bismillah. The Prophet's manners at meals are taught in hadith books. This story only teaches sharing and the basmala. It does not quote a meal hadith.",
+        "ur": "خاندان کھانا بیچ میں رکھ کر بسم اللہ کے بعد ساتھ کھا سکتا ہے۔ نبی کے کھانے کے آداب حدیث کی کتابوں میں ہیں۔ یہ کہانی صرف بانٹنے اور بسملہ کی ہے۔ یہ کھانے کی کوئی حدیث نقل نہیں کرتی۔"
+      },
+      "bodyEn": "A family can put food in the middle and eat together after saying Bismillah. The Prophet's manners at meals are taught in hadith books. This story only teaches sharing and the basmala. It does not quote a meal hadith.",
+      "bodyUr": "خاندان کھانا بیچ میں رکھ کر بسم اللہ کے بعد ساتھ کھا سکتا ہے۔ نبی کے کھانے کے آداب حدیث کی کتابوں میں ہیں۔ یہ کہانی صرف بانٹنے اور بسملہ کی ہے۔ یہ کھانے کی کوئی حدیث نقل نہیں کرتی۔",
+      "lessonLearned": "Share food and begin with Allah's name.",
+      "source": "Classroom story. Basmala is Quran 1:1. No meal hadith is cited.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "story-16",
+      "title": "The salaam at the door",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A child knocks, says Assalamu alaykum, and waits. The people inside answer. Quran 4:86 teaches that a greeting is returned with a greeting as good or better. Confirm that verse with a parent.",
+        "ur": "بچہ دروازہ کھٹکھٹاتا ہے، السلام علیکم کہتا ہے، اور ٹھہرتا ہے۔ اندر والے جواب دیتے ہیں۔ سورۃ النساء 86 میں سلام کا جواب دینے کا ذکر ہے۔ والدین کے ساتھ آیت دیکھیں۔"
+      },
+      "bodyEn": "A child knocks, says Assalamu alaykum, and waits. The people inside answer. Quran 4:86 teaches that a greeting is returned with a greeting as good or better. Confirm that verse with a parent.",
+      "bodyUr": "بچہ دروازہ کھٹکھٹاتا ہے، السلام علیکم کہتا ہے، اور ٹھہرتا ہے۔ اندر والے جواب دیتے ہیں۔ سورۃ النساء 86 میں سلام کا جواب دینے کا ذکر ہے۔ والدین کے ساتھ آیت دیکھیں۔",
+      "lessonLearned": "Bring peace into a room before you bring noise.",
+      "source": "Quran 4:86. Arabic not fetched in this draft.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "story-17",
+      "title": "The broken cup",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A child breaks a cup and wants to hide it. A parent in this story says, \"Tell me the truth. We can clean it together.\" The story is a practice scene, not a hadith.",
+        "ur": "ایک بچے سے کپ ٹوٹ جاتا ہے اور وہ چھپانا چاہتا ہے۔ اس کہانی میں والد کہتے ہیں: سچ بتاؤ، ہم مل کر صاف کر لیں گے۔ یہ مشق کا منظر ہے، حدیث نہیں۔"
+      },
+      "bodyEn": "A child breaks a cup and wants to hide it. A parent in this story says, \"Tell me the truth. We can clean it together.\" The story is a practice scene, not a hadith.",
+      "bodyUr": "ایک بچے سے کپ ٹوٹ جاتا ہے اور وہ چھپانا چاہتا ہے۔ اس کہانی میں والد کہتے ہیں: سچ بتاؤ، ہم مل کر صاف کر لیں گے۔ یہ مشق کا منظر ہے، حدیث نہیں۔",
+      "lessonLearned": "Truth is safer than a quick lie.",
+      "source": "Original classroom story. No religious quotation.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "story-18",
+      "title": "A chair for a parent",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A child sees a parent looking tired and brings a chair and a glass of water. Quran 17:23 tells children to speak kindly to parents. The glass of water is our example, not a verse.",
+        "ur": "بچہ دیکھتا ہے کہ والد تھکے ہوئے ہیں، تو وہ کرسی اور پانی کا گلاس لے آتا ہے۔ سورۃ الاسراء 23 بچوں کو والدین سے اچھی بات کرنے کو کہتی ہے۔ پانی کا گلاس ہماری مثال ہے، آیت نہیں۔"
+      },
+      "bodyEn": "A child sees a parent looking tired and brings a chair and a glass of water. Quran 17:23 tells children to speak kindly to parents. The glass of water is our example, not a verse.",
+      "bodyUr": "بچہ دیکھتا ہے کہ والد تھکے ہوئے ہیں، تو وہ کرسی اور پانی کا گلاس لے آتا ہے۔ سورۃ الاسراء 23 بچوں کو والدین سے اچھی بات کرنے کو کہتی ہے۔ پانی کا گلاس ہماری مثال ہے، آیت نہیں۔",
+      "lessonLearned": "Kindness to parents is a daily job.",
+      "source": "Quran 17:23. Arabic copied from api.alquran.cloud: ۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّۢ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًۭا كَرِيمًۭا",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "story-19",
+      "title": "The neighbor's bowl",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A family cooks a little extra and sends a bowl next door. Muslims teach care for neighbors. A well-known hadith says Jibril kept advising the Prophet about the neighbor. Add the exact hadith only after checking it.",
+        "ur": "ایک خاندان تھوڑا سا کھانا زیادہ پکا کر بغل والے گھر بھیج دیتا ہے۔ مسلمان پڑوسی کا خیال رکھنا سکھاتے ہیں۔ ایک مشہور حدیث میں جبریل بار بار پڑوسی کی وصیت کرتے ہیں۔ ٹھیک حدیث چیک کرنے کے بعد ہی شامل کریں۔"
+      },
+      "bodyEn": "A family cooks a little extra and sends a bowl next door. Muslims teach care for neighbors. A well-known hadith says Jibril kept advising the Prophet about the neighbor. Add the exact hadith only after checking it.",
+      "bodyUr": "ایک خاندان تھوڑا سا کھانا زیادہ پکا کر بغل والے گھر بھیج دیتا ہے۔ مسلمان پڑوسی کا خیال رکھنا سکھاتے ہیں۔ ایک مشہور حدیث میں جبریل بار بار پڑوسی کی وصیت کرتے ہیں۔ ٹھیک حدیث چیک کرنے کے بعد ہی شامل کریں۔",
+      "lessonLearned": "A neighbor is part of worship when we are fair and kind.",
+      "source": "Theme of the neighbor hadith in Sahih al-Bukhari. Number and Arabic are not pasted until checked.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "story-20",
+      "title": "A clean heart before Eid",
+      "category": "stories",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Before Eid, a family cleans the house, wears simple clean clothes, and forgives a small quarrel. Eid is a happy day of prayer and thanks. This story does not set the date or the prayer steps. A parent leads those.",
+        "ur": "عید سے پہلے خاندان گھر صاف کرتا ہے، سادہ صاف کپڑے پہنتا ہے، اور چھوٹی ناراضی معاف کرتا ہے۔ عید خوشی، نماز اور شکر کا دن ہے۔ یہ کہانی تاریخ یا نماز کے طریقے مقرر نہیں کرتی۔ وہ والدین بتائیں۔"
+      },
+      "bodyEn": "Before Eid, a family cleans the house, wears simple clean clothes, and forgives a small quarrel. Eid is a happy day of prayer and thanks. This story does not set the date or the prayer steps. A parent leads those.",
+      "bodyUr": "عید سے پہلے خاندان گھر صاف کرتا ہے، سادہ صاف کپڑے پہنتا ہے، اور چھوٹی ناراضی معاف کرتا ہے۔ عید خوشی، نماز اور شکر کا دن ہے۔ یہ کہانی تاریخ یا نماز کے طریقے مقرر نہیں کرتی۔ وہ والدین بتائیں۔",
+      "lessonLearned": "Joy is cleaner when we have forgiven.",
+      "source": "Family practice around Eid. Not a hadith quotation.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    }
+  ]
+}

@@ -1,0 +1,4834 @@
+{
+  "categories": [
+    {
+      "id": "kalimas",
+      "title": "Kalimas"
+    },
+    {
+      "id": "manners",
+      "title": "Manners"
+    },
+    {
+      "id": "prayer",
+      "title": "Prayer"
+    },
+    {
+      "id": "basic-knowledge",
+      "title": "Basic knowledge"
+    },
+    {
+      "id": "prophets",
+      "title": "Prophets"
+    },
+    {
+      "id": "quran",
+      "title": "Quran"
+    },
+    {
+      "id": "history",
+      "title": "History"
+    }
+  ],
+  "items": [
+    {
+      "id": "quiz-1",
+      "category": "kalimas",
+      "title": "First words",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The first kalima begins with which meaning?",
+        "ur": "پہلا کلمہ کس معنی سے شروع ہوتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "None has the right to be worshipped except Allah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "There are many gods",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "The sun is god",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A person is god",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "It teaches tawheed: only Allah is worshipped.",
+      "explanationUr": "یہ توحید سکھاتا ہے: عبادت صرف اللہ کی ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-2",
+      "category": "kalimas",
+      "title": "The messenger",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Who does the first kalima call the messenger of Allah?",
+        "ur": "پہلا کلمہ کسے اللہ کا رسول کہتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Musa",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Isa",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Muhammad",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Ibrahim",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The testimony names Muhammad as Allah's messenger.",
+      "explanationUr": "گواہی میں محمد کو اللہ کا رسول کہا گیا ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-3",
+      "category": "kalimas",
+      "title": "A witness",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What does \"ashhadu\" mean?",
+        "ur": "\"اشہد\" کا کیا مطلب ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "I run",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "I bear witness",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "I sleep",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "I eat",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ashhadu means I bear witness.",
+      "explanationUr": "اشہد کا مطلب ہے میں گواہی دیتا ہوں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-4",
+      "category": "kalimas",
+      "title": "One Allah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The kalimas teach us to worship how many gods?",
+        "ur": "کلمے کتنے معبودوں کی عبادت سکھاتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "One",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Two",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Three",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Four",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Muslims worship Allah alone.",
+      "explanationUr": "مسلمان صرف اللہ کی عبادت کرتے ہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-5",
+      "category": "kalimas",
+      "title": "A partner",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What does \"la sharika lah\" mean?",
+        "ur": "\"لا شریک لہ\" کا مطلب کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "He has a partner",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "He has no partner",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "He has a son",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "He is far away",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "It means Allah has no partner.",
+      "explanationUr": "اس کا مطلب ہے اللہ کا کوئی شریک نہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-6",
+      "category": "kalimas",
+      "title": "Praise",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Where does praise belong in the third kalima?",
+        "ur": "تیسرے کلمے میں تعریف کس کے لیے ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "For people only",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "For Allah",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "For statues",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "For no one",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Alhamdu lillah means all praise is for Allah.",
+      "explanationUr": "الحمد للہ کا مطلب ہے تمام تعریف اللہ کے لیے ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-7",
+      "category": "kalimas",
+      "title": "The greatest",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What does \"Allahu akbar\" mean?",
+        "ur": "\"اللہ اکبر\" کا مطلب کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Allah is the greatest",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Allah is tired",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Allah is two",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Allah is hidden from mercy",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Akbar here means greater than everything else.",
+      "explanationUr": "اکبر کا مطلب ہے وہ سب سے بڑا ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-8",
+      "category": "kalimas",
+      "title": "Forgiveness",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The fifth kalima is mainly about what?",
+        "ur": "پانچواں کلمہ زیادہ تر کس کے بارے میں ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Asking Allah to forgive",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Buying a toy",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Counting clouds",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Drawing a house",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Istighfar means asking Allah for forgiveness.",
+      "explanationUr": "استغفار کا مطلب اللہ سے معافی مانگنا ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-9",
+      "category": "kalimas",
+      "title": "Turning away",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The sixth kalima says a person turns away from what?",
+        "ur": "چھٹا کلمہ کس چیز سے بیزاری بتاتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Kindness",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Disbelief and associating partners with Allah",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Sharing food",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Saying salam",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "It rejects kufr and shirk. A teacher should explain those words gently.",
+      "explanationUr": "یہ کفر اور شرک سے بیزاری ہے۔ استاد یہ الفاظ نرمی سے سمجھائیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-10",
+      "category": "kalimas",
+      "title": "How many",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "How many kalimas are in this children's set?",
+        "ur": "بچوں کے اس سیٹ میں کتنے کلمے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Three",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Five",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Six",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Ten",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "This textbook set has six kalimas. That count is a school set, not a verse.",
+      "explanationUr": "یہ نصابی سیٹ چھ کلمے ہیں۔ یہ تعداد کسی آیت کا نمبر نہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-11",
+      "category": "manners",
+      "title": "Greeting",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What do Muslims say when they meet?",
+        "ur": "ملتے وقت مسلمان کیا کہتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Assalamu alaykum",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Goodbye forever",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Go away",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Be quiet always",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Salam is a prayer for peace.",
+      "explanationUr": "سلام امن کی دعا ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-12",
+      "category": "manners",
+      "title": "Reply",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "If someone gives you salam, what should you do?",
+        "ur": "اگر کوئی سلام کہے تو کیا کرنا چاہیے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Hide",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Reply with salam",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Shout",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Turn your back",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A greeting should be answered. See Quran 4:86 and confirm the verse before approval.",
+      "explanationUr": "سلام کا جواب دینا چاہیے۔ سورۃ النساء 86 دیکھ کر تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-13",
+      "category": "manners",
+      "title": "Truth",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which choice is honest?",
+        "ur": "سچ کون سا کام ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Saying what really happened",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Blaming a friend",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Hiding a broken cup with a lie",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Making up a story to win",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Honesty is saying what is true.",
+      "explanationUr": "ایمانداری سچ کہنا ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-14",
+      "category": "manners",
+      "title": "Parents",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "How should a child speak to parents?",
+        "ur": "بچے کو ماں باپ سے کیسی بات کرنی چاہیے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "With kind words",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "With shouting",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "With \"uff\"",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "By walking away",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 17:23 tells us not to say \"uff\" to parents and to speak kindly. The Arabic was fetched for the lessons file.",
+      "explanationUr": "سورۃ الاسراء 23 میں ماں باپ کو اف نہ کہنے اور اچھی بات کرنے کا حکم ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-15",
+      "category": "manners",
+      "title": "Sharing",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Your friend has no crayon. What is kind?",
+        "ur": "دوست کے پاس کریون نہیں۔ مہربانی کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Share one",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Hide all of them",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Laugh",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Break them",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sharing is a basic good manner.",
+      "explanationUr": "بانٹنا ایک اچھا ادب ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-16",
+      "category": "manners",
+      "title": "Names",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What should we avoid calling a friend?",
+        "ur": "دوست کو کیا نہیں کہنا چاہیے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "A hurtful name",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Their real name",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Salam",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Please",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Name-calling hurts. Allah forbids mocking people in Quran 49:11. Confirm that verse.",
+      "explanationUr": "برے نام دکھ دیتے ہیں۔ سورۃ الحجرات 11 میں مذاق سے منع ہے۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-17",
+      "category": "manners",
+      "title": "Listening",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "When a parent is speaking, a kind child does what?",
+        "ur": "جب والدین بول رہے ہوں تو مہربان بچہ کیا کرتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Listens",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Covers both ears",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Interrupts for fun",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Runs off",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Listening is part of respect.",
+      "explanationUr": "سننا عزت کا حصہ ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-18",
+      "category": "manners",
+      "title": "Sorry",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "If you bump someone, what do you say?",
+        "ur": "اگر کسی سے ٹکرا جاؤ تو کیا کہو؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Sorry",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Nothing",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "It was your fault",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Move",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A small apology keeps peace.",
+      "explanationUr": "معافی سلامتی رکھتی ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-19",
+      "category": "manners",
+      "title": "Mosque voice",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Inside the mosque, which voice is better?",
+        "ur": "مسجد میں کون سی آواز بہتر ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "A quiet voice",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A shouting game",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A drum",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A race",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The mosque is a place for prayer and calm.",
+      "explanationUr": "مسجد نماز اور سکون کی جگہ ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-20",
+      "category": "manners",
+      "title": "Clean hands",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Before eating, what should you do?",
+        "ur": "کھانے سے پہلے کیا کرنا چاہیے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Wash your hands",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Wipe them on the floor",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Hide them",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Skip water",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Clean hands are a health and cleanliness lesson.",
+      "explanationUr": "صاف ہاتھ صفائی کا سبق ہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-21",
+      "category": "manners",
+      "title": "Thanks",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "When someone helps you, what do you say?",
+        "ur": "جب کوئی مدد کرے تو کیا کہتے ہو؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Thank you",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Go away",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Mine",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "No",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gratitude is for people and, more deeply, for Allah.",
+      "explanationUr": "شکر لوگوں کا بھی ہے اور اصل میں اللہ کا بھی۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-22",
+      "category": "manners",
+      "title": "Animals",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "How should we treat a cat or a bird?",
+        "ur": "بلی یا پرندے کے ساتھ کیسا برتاؤ کریں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Gently",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "By pulling a tail",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "By throwing stones",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "By shouting at it",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kindness to animals is part of good character. A reviewer can add a checked hadith.",
+      "explanationUr": "جانوروں پر مہربانی اچھے اخلاق میں ہے",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-23",
+      "category": "manners",
+      "title": "Queue",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "At a water tap, what is fair?",
+        "ur": "پانی کے نل پر انصاف کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Wait for your turn",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Push ahead",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Splash others",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Block the tap",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Taking turns is fairness.",
+      "explanationUr": "باری لینا انصاف ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-24",
+      "category": "manners",
+      "title": "Secrets",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A friend tells you a kind secret. What do you do?",
+        "ur": "دوست کوئی اچھی بات راز میں کہے۔ کیا کرو گے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep it",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Announce it to tease them",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Change it",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Sell it",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Trust is part of honesty. Do not keep a secret that hides someone being hurt; tell a parent.",
+      "explanationUr": "اعتماد ایمانداری کا حصہ ہے۔ اگر کسی کو نقصان ہو رہا ہو تو راز نہ رکھیں، والدین کو بتائیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-25",
+      "category": "manners",
+      "title": "Guests",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A guest comes to your home. What is kind?",
+        "ur": "مہمان گھر آئے۔ مہربانی کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Smile and make space",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Hide the chairs",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Frown",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Ignore them",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Honoring a guest is a Muslim manner. Confirm any hadith before quoting one.",
+      "explanationUr": "مہمان کی عزت مسلمانوں کا ادب ہے۔ حدیث نقل کرنے سے پہلے اسے چیک کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-26",
+      "category": "prayer",
+      "title": "How many",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "How many obligatory prayers are there in a day?",
+        "ur": "دن میں کتنی فرض نمازیں ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Three",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Four",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Five",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Six",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Muslims pray five obligatory prayers each day.",
+      "explanationUr": "مسلمان دن میں پانچ فرض نمازیں پڑھتے ہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-27",
+      "category": "prayer",
+      "title": "Dawn",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prayer comes at dawn?",
+        "ur": "فجر کے وقت کون سی نماز ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Fajr",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Maghrib",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Isha",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Jumu'ah only",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Fajr is the dawn prayer.",
+      "explanationUr": "فجر صبح کی نماز ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-28",
+      "category": "prayer",
+      "title": "Noon",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prayer comes after the sun passes midday?",
+        "ur": "دوپہر کے بعد کون سی نماز ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Zuhr",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Fajr",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Taraweeh",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Eid",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zuhr is the midday prayer.",
+      "explanationUr": "ظہر دوپہر کی نماز ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-29",
+      "category": "prayer",
+      "title": "Afternoon",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prayer comes in the late afternoon?",
+        "ur": "دن کے آخری حصے میں کون سی نماز ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Asr",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Fajr",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Tahajjud only",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Eid",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Asr is the afternoon prayer.",
+      "explanationUr": "عصر دوپہر کے بعد کی نماز ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-30",
+      "category": "prayer",
+      "title": "Sunset",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prayer comes just after sunset?",
+        "ur": "غروبِ آفتاب کے بعد کون سی نماز ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Maghrib",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Fajr",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Zuhr",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Duha only",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Maghrib is the sunset prayer.",
+      "explanationUr": "مغرب غروب کی نماز ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-31",
+      "category": "prayer",
+      "title": "Night",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prayer comes at night?",
+        "ur": "رات کو کون سی نماز ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Isha",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Fajr",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Zuhr",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Asr",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Isha is the night prayer.",
+      "explanationUr": "عشاء رات کی نماز ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-32",
+      "category": "prayer",
+      "title": "Direction",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which way do Muslims face for salah?",
+        "ur": "نماز میں مسلمان کس طرف رخ کرتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Toward the Kaaba in Makkah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Toward the nearest shop",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Toward the sun always",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Any statue",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The qibla is the direction of the Kaaba.",
+      "explanationUr": "قبلہ خانہ کعبہ کی سمت ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-33",
+      "category": "prayer",
+      "title": "Ready",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What should we make before salah when water is available?",
+        "ur": "پانی ہو تو نماز سے پہلے کیا کریں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Wudu",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A loud race",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A nap in the row",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A drawing on the wall",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Wudu is the washing taught before prayer. Quran 5:6 names the main washes.",
+      "explanationUr": "وضو نماز سے پہلے کی صفائی ہے۔ سورۃ المائدہ 6 میں اصل دھونے کا ذکر ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-34",
+      "category": "prayer",
+      "title": "Face",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "In the wudu verse, what is washed first among these?",
+        "ur": "وضو کی آیت میں ان میں سے پہلے کیا دھویا جاتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The face",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "The shoes only",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "The hair dye",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "The belt",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 5:6 says to wash the faces. The fetched Arabic is in the lessons file.",
+      "explanationUr": "سورۃ المائدہ 6 میں منہ دھونے کا ذکر ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-35",
+      "category": "prayer",
+      "title": "Arms",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "How far are the arms washed in that verse?",
+        "ur": "اس آیت میں ہاتھ کہاں تک دھوئے جاتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "To the elbows",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Only the fingers",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Only the shoulders",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "They are not washed",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 5:6 says to the elbows.",
+      "explanationUr": "سورۃ المائدہ 6 میں کہنیوں تک کا ذکر ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-36",
+      "category": "prayer",
+      "title": "Head",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What does the wudu verse say about the head?",
+        "ur": "وضو کی آیت سر کے بارے میں کیا کہتی ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Wipe over it",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Cover it with food",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Do not touch it ever",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Shave it during wudu",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The verse says to wipe over your heads.",
+      "explanationUr": "آیت میں سر کا مسح کرنے کو کہا گیا ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-37",
+      "category": "prayer",
+      "title": "Feet",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "In that verse, the feet are washed to where?",
+        "ur": "اس آیت میں پاؤں کہاں تک دھوئے جاتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The ankles",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "The knees only",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "The hips",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "They are skipped",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 5:6 says to the ankles. Families may teach extra sunnah steps; ask a parent.",
+      "explanationUr": "سورۃ المائدہ 6 میں ٹخنوں تک کا ذکر ہے۔ اضافی سنتیں والدین سے پوچھیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-38",
+      "category": "prayer",
+      "title": "Calm",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "During salah, which body is better?",
+        "ur": "نماز میں کون سا بدن بہتر ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "A calm, still body",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A jumping body",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A spinning body",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A body that pushes friends",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Salah is quiet worship.",
+      "explanationUr": "نماز خاموش عبادت ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-39",
+      "category": "prayer",
+      "title": "Rows",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "In a group prayer, children should do what?",
+        "ur": "جماعت میں بچوں کو کیا کرنا چاہیے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Stand in the row calmly",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Start a race",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Talk through the prayer",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Block the door",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The row is straight and calm.",
+      "explanationUr": "صف سیدھی اور پُرسکون ہوتی ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-40",
+      "category": "prayer",
+      "title": "Learning",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "If you do not know the words yet, what is right?",
+        "ur": "اگر الفاظ ابھی نہ آئیں تو کیا ٹھیک ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Pray beside a parent and keep learning",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Make up Arabic",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Skip wudu",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Invent a verse",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A child learns with a parent. We do not invent Quranic words.",
+      "explanationUr": "بچہ والدین کے ساتھ سیکھتا ہے۔ قرآنی الفاظ خود نہیں بناتے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-41",
+      "category": "basic-knowledge",
+      "title": "Pillars",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "How many pillars of Islam are in the famous hadith?",
+        "ur": "مشہور حدیث میں اسلام کے کتنے ستون ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Three",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Four",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Five",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Seven",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The hadith \"Islam is built upon five\" is in Sahih al-Bukhari and Sahih Muslim. Confirm the number in your edition.",
+      "explanationUr": "حدیث \"اسلام کی بنیاد پانچ پر ہے\" بخاری اور مسلم میں ہے۔ اپنے نسخے میں نمبر دیکھیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-42",
+      "category": "basic-knowledge",
+      "title": "First pillar",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which pillar is the testimony of faith?",
+        "ur": "کون سا ستون کلمۂ شہادت ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Shahada",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Hajj only",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Zakat only",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Sawm only",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The shahada is the first of the five.",
+      "explanationUr": "شہادت پانچ میں پہلا ستون ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-43",
+      "category": "basic-knowledge",
+      "title": "Fast",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "In which month do Muslims fast?",
+        "ur": "مسلمان کس مہینے کے روزے رکھتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Ramadan",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Muharram only",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Rajab only",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Every Monday of the year as a pillar",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Fasting in Ramadan is a pillar. Quran 2:185 names Ramadan. Confirm the verse.",
+      "explanationUr": "رمضان کے روزے ستون ہیں۔ سورۃ البقرہ 185 میں رمضان کا ذکر ہے۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-44",
+      "category": "basic-knowledge",
+      "title": "Charity",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What is zakat?",
+        "ur": "زکوٰۃ کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Obligatory charity for those who must pay it",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A game score",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A type of shoe",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A song",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zakat is a pillar. The details of who pays it are for a parent or teacher.",
+      "explanationUr": "زکوٰۃ ایک ستون ہے۔ کس پر فرض ہے، یہ والدین یا استاد بتائیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-45",
+      "category": "basic-knowledge",
+      "title": "Journey",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Hajj is a journey to which city?",
+        "ur": "حج کس شہر کا سفر ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Makkah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Cairo",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Istanbul",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Delhi",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hajj is to Makkah, once in a lifetime for the person who is able.",
+      "explanationUr": "حج مکہ کا سفر ہے، جو شخص قادر ہو اس پر زندگی میں ایک بار۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-46",
+      "category": "basic-knowledge",
+      "title": "Book",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What is the holy book of Islam?",
+        "ur": "اسلام کی مقدس کتاب کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The Quran",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A storybook we invent",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A newspaper",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A map only",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The Quran is Allah's revealed book.",
+      "explanationUr": "قرآن اللہ کی اتاری ہوئی کتاب ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-47",
+      "category": "basic-knowledge",
+      "title": "Prophet",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Who received the Quran?",
+        "ur": "قرآن کس پر اترا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Prophet Muhammad",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Prophet Nuh only",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Prophet Yusuf only",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A king in Rome",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Allah revealed the Quran to Muhammad through Jibril.",
+      "explanationUr": "اللہ نے قرآن محمد پر جبریل کے ذریعے اتارا۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-48",
+      "category": "basic-knowledge",
+      "title": "Angel",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which angel brought the revelation?",
+        "ur": "وحی کون سا فرشتہ لایا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Jibril",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A bird",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A cloud with a face",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "No one",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Jibril is the angel of revelation. Confirm the child-friendly wording.",
+      "explanationUr": "جبریل وحی کے فرشتے ہیں۔ بچوں کے لیے الفاظ کی تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-49",
+      "category": "basic-knowledge",
+      "title": "Makkah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "In which city was Prophet Muhammad born?",
+        "ur": "نبی محمد کس شہر میں پیدا ہوئے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Makkah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Madinah",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Jerusalem",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Taif only",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "He was born in Makkah. This is standard seerah; a reviewer should name the book they trust.",
+      "explanationUr": "آپ مکہ میں پیدا ہوئے۔ یہ سیرت کی مشہور بات ہے؛ معتبر کتاب کا نام لکھیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-50",
+      "category": "basic-knowledge",
+      "title": "Madinah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "To which city did the Prophet move in the Hijrah?",
+        "ur": "ہجرت میں نبی کس شہر گئے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Madinah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A desert with no name",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Rome",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "China",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The Hijrah was from Makkah to Madinah.",
+      "explanationUr": "ہجرت مکہ سے مدینہ کی طرف تھی۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-51",
+      "category": "basic-knowledge",
+      "title": "Mercy",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A Muslim calls Prophet Muhammad a mercy for whom?",
+        "ur": "مسلمان نبی محمد کو کس کے لیے رحمت کہتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The worlds",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Only one family",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Only rich people",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "No one",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 21:107 calls him a mercy to the worlds. Confirm the verse before approval.",
+      "explanationUr": "سورۃ الانبیاء 107 میں انہیں عالموں کے لیے رحمت کہا گیا ہے۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-52",
+      "category": "basic-knowledge",
+      "title": "Clean",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Before holding a mushaf, a careful child does what?",
+        "ur": "مصحف اٹھانے سے پہلے احتیاط کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Has clean hands and follows the family's wudu practice",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Eats over it",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Drags it on the floor",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Draws on the page",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We respect the mushaf. Ask a parent about the exact purity rule your family follows.",
+      "explanationUr": "ہم مصحف کی عزت کرتے ہیں۔ طہارت کا قاعدہ اپنے گھر سے پوچھیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-53",
+      "category": "basic-knowledge",
+      "title": "Bismillah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What does Bismillah mean?",
+        "ur": "بسم اللہ کا کیا مطلب ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "In the name of Allah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "In the name of a person",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Good night",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Count to ten",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "It is the basmala. The Arabic is Quran 1:1 in the azkar file.",
+      "explanationUr": "یہ بسملہ ہے۔ عربی اذکار والی فائل میں سورۃ الفاتحہ کی پہلی آیت ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-54",
+      "category": "basic-knowledge",
+      "title": "Alhamdulillah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "When do we say Alhamdulillah?",
+        "ur": "الحمد للہ کب کہتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "When we thank Allah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "When we want to scare someone",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "When we lie",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "When we waste food",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "It means all praise belongs to Allah.",
+      "explanationUr": "اس کا مطلب ہے تمام تعریف اللہ کے لیے ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-55",
+      "category": "basic-knowledge",
+      "title": "Stars here",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What are the stars in Little Noor?",
+        "ur": "لٹل نور کے ستارے کیا ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Learning points, not money",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Coins to spend",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A prize of cash",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A ticket",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The app's stars are for learning. They are not money.",
+      "explanationUr": "یہ ستارے سیکھنے کے لیے ہیں، پیسے نہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-56",
+      "category": "prophets",
+      "title": "First",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Who is remembered as the first prophet?",
+        "ur": "پہلے نبی کے طور پر کسے یاد کیا جاتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Adam",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Muhammad",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Isa",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Yusuf",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Adam is the first prophet in Islamic teaching. Confirm the child-level source you prefer.",
+      "explanationUr": "اسلامی تعلیم میں آدم پہلے نبی ہیں۔ بچوں والی کتاب کی تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-57",
+      "category": "prophets",
+      "title": "Ark",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet built the ark?",
+        "ur": "کشتی کس نبی نے بنائی؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Nuh",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Yunus",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Lut",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Hud",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The Quran tells the story of Nuh and the ship. See Surah Nuh and Surah Hud.",
+      "explanationUr": "قرآن نوح اور کشتی کا قصہ بیان کرتا ہے۔ سورۃ نوح اور سورۃ ہود دیکھیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-58",
+      "category": "prophets",
+      "title": "Friend",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet is known as Khalilullah, the close friend of Allah?",
+        "ur": "اللہ کے خلیل کس نبی کو کہا جاتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Ibrahim",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Yunus",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Sulayman",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Dawud",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ibrahim is called Allah's close friend in Quran 4:125. Confirm the verse.",
+      "explanationUr": "سورۃ النساء 125 میں ابراہیم کو خلیل کہا گیا ہے۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-59",
+      "category": "prophets",
+      "title": "House",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Who raised the foundations of the Kaaba with Ismail?",
+        "ur": "اسماعیل کے ساتھ کعبہ کی بنیاد کس نے اٹھائی؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Ibrahim",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Yusuf",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A later king",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Nuh",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 2:127. The Arabic was fetched into the stories file.",
+      "explanationUr": "سورۃ البقرہ 127۔ عربی کہانیوں والی فائل میں ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-60",
+      "category": "prophets",
+      "title": "Dreams",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet's story fills a whole surah about his brothers?",
+        "ur": "کس نبی کا قصہ ایک پوری سورت میں ہے جس میں بھائیوں کا ذکر ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Yusuf",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Hud",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Salih",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Shu'ayb",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Surah Yusuf tells his story. Read it with a parent; some parts are for older children.",
+      "explanationUr": "سورۃ یوسف میں یہ قصہ ہے۔ بڑے کے ساتھ پڑھیں؛ کچھ حصے بڑے بچوں کے لیے ہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-61",
+      "category": "prophets",
+      "title": "Baby",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet was placed in the river as a baby?",
+        "ur": "کس نبی کو بچپن میں دریا میں رکھا گیا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Musa",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Isa",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Yunus",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Ibrahim",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The Quran tells this in Surah Ta-Ha and Surah Al-Qasas.",
+      "explanationUr": "قرآن یہ قصہ سورۃ طٰہٰ اور سورۃ القصص میں بیان کرتا ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-62",
+      "category": "prophets",
+      "title": "Staff",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet's staff is part of his story with Pharaoh?",
+        "ur": "فرعون والے قصے میں عصا کس نبی کا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Musa",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Yusuf",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Nuh",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Lut",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Musa's signs before Pharaoh are in the Quran. Avoid scary details with little children.",
+      "explanationUr": "موسیٰ کی نشانیاں قرآن میں ہیں۔ چھوٹے بچوں کو ڈراؤنی تفصیل نہ دیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-63",
+      "category": "prophets",
+      "title": "Teacher",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "In Surah Al-Kahf, Musa travels to learn from whom?",
+        "ur": "سورۃ کہف میں موسیٰ کس سے سیکھنے جاتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "A servant of Allah whom the surah does not name in the child's text",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Pharaoh",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A merchant only",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A poet",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The Quran describes a teacher without using the later name in the verses themselves. Do not add a name until you decide how to teach it.",
+      "explanationUr": "قرآن اس استاد کا ذکر کرتا ہے۔ بچوں کو نام بعد کی کتابوں سے دینے سے پہلے فیصلہ کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-64",
+      "category": "prophets",
+      "title": "Psalms",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet was given the Zabur?",
+        "ur": "زبور کس نبی کو دیا گیا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Dawud",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Yusuf",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Hud",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Salih",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 17:55 mentions the Zabur given to Dawud. Confirm the verse.",
+      "explanationUr": "سورۃ الاسراء 55 میں داؤد کو زبور دیے جانے کا ذکر ہے۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-65",
+      "category": "prophets",
+      "title": "Birds",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet understood the speech of birds in the Quran?",
+        "ur": "قرآن میں پرندوں کی بولی کس نبی کو آتی ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Sulayman",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Nuh",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Lut",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Hud",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 27:16. Confirm the verse.",
+      "explanationUr": "سورۃ النمل 16۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-66",
+      "category": "prophets",
+      "title": "Ant",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet smiled at an ant's words?",
+        "ur": "چیونٹی کی بات پر کس نبی نے مسکراہٹ کی؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Sulayman",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Adam",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Hud",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Salih",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The story is in Quran 27:17-19. Keep it gentle.",
+      "explanationUr": "قصہ سورۃ النمل 17 تا 19 میں ہے۔ اسے نرمی سے سنائیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-67",
+      "category": "prophets",
+      "title": "Whale",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet called Allah from the darkness?",
+        "ur": "اندھیرے میں اللہ کو کس نبی نے پکارا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Yunus",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Hud",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Salih",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Shu'ayb",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 21:87. Do not add graphic details.",
+      "explanationUr": "سورۃ الانبیاء 87۔ ڈراؤنی تفصیل نہ جوڑیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-68",
+      "category": "prophets",
+      "title": "Cradle",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which prophet spoke while still a baby in the Quran's account?",
+        "ur": "قرآن کے بیان میں کون سا نبی گود میں بولے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Isa",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Yusuf",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Yunus",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Hud",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 19:29-33. Confirm the verses.",
+      "explanationUr": "سورۃ مریم 29 تا 33۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-69",
+      "category": "prophets",
+      "title": "Last",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Who is the last prophet?",
+        "ur": "آخری نبی کون ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Muhammad",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Isa",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Musa",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Ibrahim",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Muslims believe Muhammad is the final messenger. Quran 33:40 calls him the seal of the prophets. Confirm the verse.",
+      "explanationUr": "مسلمان محمد کو آخری رسول مانتے ہیں۔ سورۃ الاحزاب 40 میں خاتم النبیین ہے۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-70",
+      "category": "prophets",
+      "title": "Kindness",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A true story of a prophet should be learned from where?",
+        "ur": "نبی کا سچا قصہ کہاں سے سیکھنا چاہیے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The Quran or a checked seerah book",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Any cartoon",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A guess",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A dream we invent",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We do not invent words for a prophet.",
+      "explanationUr": "ہم نبی کے الفاظ خود نہیں بناتے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-71",
+      "category": "quran",
+      "title": "Surahs",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "How many surahs are in the Quran?",
+        "ur": "قرآن میں کتنی سورتیں ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "100",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "110",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "114",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "120",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "A standard mushaf has 114 surahs.",
+      "explanationUr": "معیاری مصحف میں 114 سورتیں ہیں۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-72",
+      "category": "quran",
+      "title": "First surah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What is the first surah?",
+        "ur": "پہلی سورت کون سی ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Al-Fatiha",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Al-Ikhlas",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "An-Nas",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Al-Baqarah",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Al-Fatiha opens the mushaf.",
+      "explanationUr": "فاتحہ مصحف کی پہلی سورت ہے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-73",
+      "category": "quran",
+      "title": "Last surah",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What is the last surah?",
+        "ur": "آخری سورت کون سی ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "An-Nas",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Al-Falaq",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Al-Ikhlas",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Al-Fatiha",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "An-Nas is surah 114.",
+      "explanationUr": "ناس سورت نمبر 114 ہے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-74",
+      "category": "quran",
+      "title": "One",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which surah says Allah is One?",
+        "ur": "کون سی سورت کہتی ہے کہ اللہ ایک ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Al-Ikhlas",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Quraysh",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Al-Fil",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Al-Masad",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Surah 112. The text is in the azkar file from the API.",
+      "explanationUr": "سورۃ 112۔ متن اذکار کی فائل میں API سے ہے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-75",
+      "category": "quran",
+      "title": "Daybreak",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Al-Falaq asks refuge in the Lord of what?",
+        "ur": "فلق کس چیز کے رب کی پناہ مانگتی ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The daybreak",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A mountain of gold",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A river only",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A market",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 113:1, fetched from the API.",
+      "explanationUr": "سورۃ الفلق 1، API سے لی گئی۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-76",
+      "category": "quran",
+      "title": "People",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "An-Nas seeks refuge in the Lord of whom?",
+        "ur": "ناس کس کے رب کی پناہ مانگتی ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "People",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Only birds",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Only fish",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Only kings of one city",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quran 114:1, fetched from the API.",
+      "explanationUr": "سورۃ الناس 1، API سے لی گئی۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-77",
+      "category": "quran",
+      "title": "Longest",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which of these is a very long surah near the front of the Quran?",
+        "ur": "ان میں سے کون سی لمبی سورت قرآن کے شروع میں ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Al-Baqarah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Al-Ikhlas",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Al-Asr",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Al-Kawthar",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Al-Baqarah is the second surah and the longest.",
+      "explanationUr": "بقرہ دوسری اور سب سے لمبی سورت ہے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-78",
+      "category": "quran",
+      "title": "Short",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which of these is a very short surah?",
+        "ur": "ان میں سے کون سی بہت چھوٹی سورت ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Al-Kawthar",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Al-Baqarah",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Ali Imran",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "An-Nisa",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Al-Kawthar is among the shortest. Confirm the surah number 108.",
+      "explanationUr": "کوثر چھوٹی سورتوں میں ہے۔ نمبر 108 کی تصدیق کریں۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-79",
+      "category": "quran",
+      "title": "Respect",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "How do we treat a page of the Quran?",
+        "ur": "قرآن کے صفحے کے ساتھ کیسا برتاؤ کریں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "With clean hands and care",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "As a coaster",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "By tearing it",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "By drawing over the words",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The mushaf is respected.",
+      "explanationUr": "مصحف کی عزت کی جاتی ہے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-80",
+      "category": "quran",
+      "title": "Meaning",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "If you do not understand an ayah, what should you do?",
+        "ur": "اگر آیت سمجھ نہ آئے تو کیا کریں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Ask a parent or teacher",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Invent a meaning",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Erase it",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Skip the Quran forever",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Children ask a grown-up. We do not invent meanings.",
+      "explanationUr": "بچہ بڑے سے پوچھے۔ معنی خود نہیں بناتے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-81",
+      "category": "quran",
+      "title": "Arabic",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The Quran was revealed in which language?",
+        "ur": "قرآن کس زبان میں اترا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Arabic",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Latin",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "English first",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Urdu first",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The Quran's language is Arabic. Translations help us understand.",
+      "explanationUr": "قرآن کی زبان عربی ہے۔ ترجمہ سمجھنے میں مدد دیتا ہے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-82",
+      "category": "quran",
+      "title": "Translation",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Is an English translation the same as the Arabic Quran?",
+        "ur": "کیا انگریزی ترجمہ عربی قرآن کے برابر ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "No. It is a translation and can be discussed",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Yes, every word matches perfectly",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "It replaces the Arabic",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "It is not allowed to exist",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A translation is a human explanation. The Arabic is the Quran.",
+      "explanationUr": "ترجمہ انسان کی وضاحت ہے۔ قرآن عربی ہے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-83",
+      "category": "quran",
+      "title": "Juz",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "A mushaf is often divided into how many juz for reading?",
+        "ur": "پڑھنے کے لیے مصحف اکثر کتنے پاروں میں بٹا ہوتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "30",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "7",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "114",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "5",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Thirty juz is the common division. A reviewer should confirm this teaching point.",
+      "explanationUr": "تیس پارے عام تقسیم ہے۔ اس نکتے کی تصدیق کریں۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-84",
+      "category": "quran",
+      "title": "Listening",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "When the Quran is recited, a polite listener does what?",
+        "ur": "قرآن کی تلاوت ہو تو شائستہ سننے والا کیا کرتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Listens quietly",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Talks over it",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Plays a loud game",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Mocks a mistake",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Quiet listening is respect. Quran 7:204 mentions listening when the Quran is recited. Confirm it.",
+      "explanationUr": "خاموش سننا عزت ہے۔ سورۃ الاعراف 204 میں سننے کا ذکر ہے۔ تصدیق کریں۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-85",
+      "category": "quran",
+      "title": "Practice",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What is a good small goal for a child?",
+        "ur": "بچے کے لیے چھوٹا اچھا ہدف کیا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Learn one short surah with a parent",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Memorize the whole Quran in one hour",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Skip the Arabic",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Change the words",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Short, repeated practice is enough.",
+      "explanationUr": "تھوڑی اور بار بار مشق کافی ہے۔",
+      "source": "Count or name from the standard written mushaf. A reviewer should confirm it against a printed copy.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-86",
+      "category": "history",
+      "title": "Cave",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Where did the first revelation come to Prophet Muhammad?",
+        "ur": "پہلی وحی نبی محمد پر کہاں آئی؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The cave of Hira",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A market in Rome",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A ship",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A school in Andalus",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "This is standard seerah. Name your seerah book when you approve it.",
+      "explanationUr": "یہ مشہور سیرت ہے۔ منظوری پر اپنی سیرت کی کتاب کا نام لکھیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-87",
+      "category": "history",
+      "title": "Word",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The first word of the revelation is remembered as what?",
+        "ur": "پہلی وحی کا پہلا لفظ کیا یاد کیا جاتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Iqra, Read",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Sleep",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Buy",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Run",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Surah Al-Alaq begins with Iqra. Confirm 96:1 before approval. The Arabic is not pasted here because it was not fetched in this draft.",
+      "explanationUr": "سورۃ العلق اقراء سے شروع ہوتی ہے۔ 96:1 کی تصدیق کریں۔ عربی اس مسودے میں اس لیے نہیں کہ اسے API سے نہیں لیا گیا۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-88",
+      "category": "history",
+      "title": "Helper",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Who supported the Prophet first in his own home?",
+        "ur": "گھر میں نبی کا ساتھ سب سے پہلے کس نے دیا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Khadijah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A stranger from another faith who mocked him",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Pharaoh",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A poet who sold poems",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Khadijah's support is standard seerah. Confirm the book.",
+      "explanationUr": "خدیجہ کا ساتھ مشہور سیرت ہے۔ کتاب کی تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-89",
+      "category": "history",
+      "title": "Cave trip",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "On the journey to Madinah, the Prophet hid with his companion in which cave?",
+        "ur": "مدینہ کے سفر میں نبی اپنے ساتھی کے ساتھ کس غار میں چھپے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Thawr",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Hira again for a year",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A cave in China",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "No cave is mentioned in seerah",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The cave of Thawr is standard seerah. Quran 9:40 is read with this story. Confirm it.",
+      "explanationUr": "غارِ ثور مشہور سیرت ہے۔ اس قصے کے ساتھ سورۃ التوبہ 40 پڑھی جاتی ہے۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-90",
+      "category": "history",
+      "title": "Companion",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Who was the companion in that cave?",
+        "ur": "اس غار میں ساتھی کون تھے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Abu Bakr",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Abu Lahab",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Pharaoh",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A merchant who refused",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Abu Bakr as-Siddiq. Confirm the seerah source.",
+      "explanationUr": "ابو بکر صدیق۔ سیرت کے ماخذ کی تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-91",
+      "category": "history",
+      "title": "Masjid",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The Prophet's mosque was built in which city?",
+        "ur": "نبی کی مسجد کس شہر میں بنی؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Madinah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Rome",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Cairo",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Granada",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Al-Masjid an-Nabawi is in Madinah.",
+      "explanationUr": "مسجدِ نبوی مدینہ میں ہے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-92",
+      "category": "history",
+      "title": "Qibla change",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Muslims first faced another mosque, then turned toward where?",
+        "ur": "پہلے رخ ایک مسجد کی طرف تھا، پھر کہاں ہو گیا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The Kaaba in Makkah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A palace",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "The sea only",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A mountain in Yemen only",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The change of qibla is in Quran 2:144. Confirm the verse.",
+      "explanationUr": "قبلے کا بدلنا سورۃ البقرہ 144 میں ہے۔ تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-93",
+      "category": "history",
+      "title": "Treaty",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The peaceful agreement at Hudaybiyyah is remembered as what?",
+        "ur": "حدیبیہ کے معاہدے کو کیا یاد کیا جاتا ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "A treaty",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A children's game",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A poem contest only",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A sea battle",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hudaybiyyah was a treaty. Teach it simply, without battle details, for ages 7–10.",
+      "explanationUr": "حدیبیہ ایک معاہدہ تھا۔ 7 سے 10 سال کے بچوں کو بغیر لڑائی کی تفصیل کے سنائیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-94",
+      "category": "history",
+      "title": "Opening",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Makkah was later opened in a way our lessons describe as what?",
+        "ur": "بعد میں مکہ کو ہماری سبق میں کیسے یاد کریں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "With a conquest that a parent should explain gently",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "With a magic spell",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "With a flood",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "It never opened",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The opening of Makkah needs a parent's wording. This quiz does not tell battle details.",
+      "explanationUr": "فتحِ مکہ والدین کے الفاظ سے سنی جائے۔ اس سوال میں لڑائی کی تفصیل نہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-95",
+      "category": "history",
+      "title": "Farewell",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Near the end of his life, the Prophet gave which famous sermon?",
+        "ur": "زندگی کے آخر میں نبی نے کون سا مشہور خطبہ دیا؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The Farewell Sermon",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A sermon in Rome",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A children's play",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "No sermon",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The Farewell Sermon is standard seerah. Quote it only from a checked text.",
+      "explanationUr": "حجۃ الوداع کا خطبہ مشہور سیرت ہے۔ اقتباس صرف چیک شدہ متن سے لیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-96",
+      "category": "history",
+      "title": "Calendar",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "The Islamic year count begins from what?",
+        "ur": "اسلامی سال کی گنتی کس سے شروع ہوتی ہے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "The Hijrah",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "The birth of Isa",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "The building of a palace in Spain",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A king's birthday",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The Hijri calendar starts from the Hijrah. Confirm the historical note.",
+      "explanationUr": "ہجری کیلنڈر ہجرت سے شروع ہوتا ہے۔ تاریخی نوٹ کی تصدیق کریں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "growing",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-97",
+      "category": "history",
+      "title": "Books",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "Which books are safe places for a child's history lesson?",
+        "ur": "بچے کی تاریخی سبق کے لیے محفوظ کتابیں کون سی ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "A seerah book a parent trusts",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Any video title",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "A guess in a chat",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A made-up comic with no review",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "History about the Prophet needs a checked book.",
+      "explanationUr": "نبی کی تاریخ کے لیے چیک شدہ کتاب چاہیے۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-98",
+      "category": "history",
+      "title": "Respect",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "When we say the Prophet's name, a Muslim home often adds what?",
+        "ur": "نبی کا نام لیں تو مسلمان گھر میں اکثر کیا کہتے ہیں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "A prayer of peace upon him",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "A joke",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Nothing unkind only, with no prayer ever",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "A nickname",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We say peace be upon him. Teach the short Arabic only after a parent is happy with the pronunciation.",
+      "explanationUr": "ہم صلی اللہ علیہ وسلم کہتے ہیں۔ مختصر عربی تلفظ والدین کی رضامندی کے بعد سکھائیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-99",
+      "category": "history",
+      "title": "Lessons",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "What should a child copy from the Prophet's life?",
+        "ur": "نبی کی زندگی سے بچہ کیا اپنائے؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Truth, kindness, and prayer",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Anger at small things",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Waste",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Mocking people",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The lessons we teach here are character lessons, not battle stories.",
+      "explanationUr": "یہاں ہم اخلاق کا سبق سکھاتے ہیں، لڑائی کے قصے نہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "quiz-100",
+      "category": "history",
+      "title": "Review",
+      "arabic": "",
+      "transliteration": "",
+      "translations": {
+        "en": "If two children's books disagree, what should we do?",
+        "ur": "اگر دو بچوں کی کتابیں مختلف ہوں تو کیا کریں؟"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "Ask a knowledgeable parent or teacher",
+          "icon": "sun",
+          "imageUrl": null
+        },
+        {
+          "id": "b",
+          "text": "Pick the exciting one",
+          "icon": "heart",
+          "imageUrl": null
+        },
+        {
+          "id": "c",
+          "text": "Mix them",
+          "icon": "star",
+          "imageUrl": null
+        },
+        {
+          "id": "d",
+          "text": "Invent a third story",
+          "icon": "cloud",
+          "imageUrl": null
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Disagreement is a reason for review, not for a new story.",
+      "explanationUr": "اختلاف جائزے کی وجہ ہے، نئی کہانی کی نہیں۔",
+      "source": "Basic Islamic teaching for children. A reviewer should attach the exact Quran or hadith reference before this is called verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "difficulty": "easy",
+      "ageMin": 5,
+      "ageMax": 10
+    }
+  ]
+}

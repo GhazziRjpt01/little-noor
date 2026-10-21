@@ -15,39 +15,35 @@ const item = {
 export default function FeatureCards() {
   return (
     <section aria-labelledby="lessons-heading">
-      <h2 id="lessons-heading" className="sr-only">
-        Lessons
+      <h2 id="lessons-heading" className="text-3xl font-semibold sm:text-4xl">
+        Choose a lesson
       </h2>
       <motion.div
-        className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4"
+        className="mt-5 grid gap-4 sm:grid-cols-2 xl:grid-cols-4"
         initial="hidden"
         whileInView="show"
         viewport={{ once: true, margin: '-40px' }}
         variants={list}
       >
-        {lessons.map((lesson) => {
-          const Icon = lesson.icon
-
-          return (
-            <motion.div key={lesson.to} variants={item} className="h-full">
-              <Link
-                to={lesson.to}
-                className={`group flex h-full flex-col rounded-3xl p-5 shadow-soft transition duration-200 hover:-translate-y-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-noor-ink focus-visible:ring-offset-2 ${lesson.tone}`}
-              >
-                <span className="flex h-14 w-14 items-center justify-center rounded-2xl bg-white/80 text-noor-ink">
-                  <Icon size={28} aria-hidden="true" />
-                </span>
-                <h3 className="mt-4 text-2xl font-semibold">{lesson.title}</h3>
-                <p className="mt-2 flex-1 font-semibold leading-relaxed text-noor-ink/80">
-                  {lesson.text}
-                </p>
-                <span className="mt-4 text-sm font-extrabold text-noor-ink">
-                  Open lesson
-                </span>
-              </Link>
-            </motion.div>
-          )
-        })}
+        {lessons.map((lesson) => (
+          <motion.div key={lesson.to} variants={item} className="h-full">
+            <Link
+              to={lesson.to}
+              className={`group flex h-full min-h-64 flex-col rounded-[2rem] p-4 shadow-soft transition duration-200 hover:-translate-y-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-noor-ink focus-visible:ring-offset-2 active:translate-y-0 ${lesson.tone}`}
+            >
+              <img
+                src={lesson.image}
+                alt={lesson.alt}
+                className="h-40 w-full rounded-3xl bg-noor-cream object-contain p-2"
+              />
+              <h3 className="mt-4 text-2xl font-semibold">{lesson.title}</h3>
+              <p className="mt-2 flex-1 text-base font-semibold leading-relaxed text-noor-ink/80">
+                {lesson.text}
+              </p>
+              <span className="mt-4 text-sm font-extrabold text-noor-ink">Open lesson</span>
+            </Link>
+          </motion.div>
+        ))}
       </motion.div>
     </section>
   )

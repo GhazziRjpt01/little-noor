@@ -2,14 +2,19 @@
   "name": "little-noor-backend",
   "version": "0.1.0",
   "private": true,
-  "description": "Little Noor API starter. No external services are connected yet.",
+  "description": "Little Noor API. Supabase is used only after the env vars are set and the SQL migration is applied.",
   "type": "module",
   "scripts": {
     "dev": "node --watch src/server.js",
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "test": "node --test test/api.test.js"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
     "cors": "^2.8.6",
-    "express": "^5.3.0"
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.1",
+    "helmet": "^8.3.0"
   }
 }

@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "id": "kalima-1",
+      "title": "Kalima Tayyibah",
+      "arabic": "لَا إِلَٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ",
+      "transliteration": "La ilaha illallah, Muhammadur Rasulullah.",
+      "translations": {
+        "en": "None has the right to be worshipped except Allah. Muhammad is the messenger of Allah.",
+        "ur": "اللہ کے سوا کوئی معبود برحق نہیں۔ محمد اللہ کے رسول ہیں۔"
+      },
+      "source": "The first of the six kalimas taught to children in South Asia. It is the wording of the testimony of faith, not a single numbered hadith by itself. Compare the Arabic with your printed textbook before approval.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 4,
+      "ageMax": 10
+    },
+    {
+      "id": "kalima-2",
+      "title": "Kalima Shahadah",
+      "arabic": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللَّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+      "transliteration": "Ashhadu an la ilaha illallahu wahdahu la sharika lah, wa ashhadu anna Muhammadan abduhu wa rasuluh.",
+      "translations": {
+        "en": "I bear witness that none has the right to be worshipped except Allah, alone, with no partner, and I bear witness that Muhammad is His servant and messenger.",
+        "ur": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اور میں گواہی دیتا ہوں کہ محمد اس کے بندے اور رسول ہیں۔"
+      },
+      "source": "The second kalima, the shahadah, as commonly taught to children. Confirm the exact Arabic in your textbook. Not marked verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 5,
+      "ageMax": 10
+    },
+    {
+      "id": "kalima-3",
+      "title": "Kalima Tamjeed",
+      "arabic": "سُبْحَانَ ٱللَّٰهِ وَٱلْحَمْدُ لِلَّٰهِ وَلَا إِلَٰهَ إِلَّا ٱللَّٰهُ وَٱللَّٰهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِٱللَّٰهِ ٱلْعَلِيِّ ٱلْعَظِيمِ",
+      "transliteration": "Subhanallahi walhamdu lillahi wa la ilaha illallahu wallahu akbar, wa la hawla wa la quwwata illa billahil aliyyil azeem.",
+      "translations": {
+        "en": "Allah is free from every flaw, all praise is for Allah, none has the right to be worshipped except Allah, and Allah is the greatest. There is no power and no strength except with Allah, the Most High, the Most Great.",
+        "ur": "اللہ ہر نقص سے پاک ہے، تمام تعریف اللہ کے لیے ہے، اللہ کے سوا کوئی معبود نہیں، اور اللہ سب سے بڑا ہے۔ طاقت اور قوت صرف اللہ بلند و بزرگ کے ساتھ ہے۔"
+      },
+      "source": "The third kalima, made of well-known phrases of dhikr. The combined wording is a textbook kalima, not one hadith. Compare it with your printed copy before approval.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 6,
+      "ageMax": 10
+    },
+    {
+      "id": "kalima-4",
+      "title": "Kalima Tawheed",
+      "arabic": "لَا إِلَٰهَ إِلَّا ٱللَّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لَا يَمُوتُ أَبَدًا أَبَدًا ذُو ٱلْجَلَالِ وَٱلْإِكْرَامِ بِيَدِهِ ٱلْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul mulku wa lahul hamdu, yuhyi wa yumitu, wa huwa hayyun la yamutu abadan abada, dhul jalali wal ikram, biyadihil khayr, wa huwa ala kulli shayin qadeer.",
+      "translations": {
+        "en": "None has the right to be worshipped except Allah, alone, without partner. His is the kingdom and His is the praise. He gives life and causes death. He is the Ever-Living and does not die. He is full of majesty and honor. In His hand is all good, and He is able to do all things.",
+        "ur": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں۔ بادشاہی اسی کی ہے اور تعریف اسی کی ہے۔ وہ زندگی دیتا ہے اور موت دیتا ہے۔ وہ ہمیشہ زندہ ہے، مرنے والا نہیں۔ عزت اور بزرگی اسی کی ہے۔ بھلائی اس کے ہاتھ میں ہے، اور وہ ہر چیز پر قادر ہے۔"
+      },
+      "source": "The fourth kalima as commonly printed for children. Parts of this wording appear in Quran and dhikr, but this exact paragraph should be checked against your textbook. Not marked verified.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "kalima-5",
+      "title": "Kalima Istighfar",
+      "arabic": "أَسْتَغْفِرُ ٱللَّٰهَ رَبِّي مِنْ كُلِّ ذَنْبٍ أَذْنَبْتُهُ عَمْدًا أَوْ خَطَأً سِرًّا أَوْ عَلَانِيَةً وَأَتُوبُ إِلَيْهِ مِنَ ٱلذَّنْبِ ٱلَّذِي أَعْلَمُ وَمِنَ ٱلذَّنْبِ ٱلَّذِي لَا أَعْلَمُ إِنَّكَ أَنْتَ عَلَّامُ ٱلْغُيُوبِ وَسَتَّارُ ٱلْعُيُوبِ وَغَفَّارُ ٱلذُّنُوبِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِٱللَّٰهِ ٱلْعَلِيِّ ٱلْعَظِيمِ",
+      "transliteration": "Astaghfirullaha rabbi min kulli dhambin adhnabtuhu amadan aw khataan sirran aw alaniyatan, wa atubu ilayhi minadh dhambilladhi alamu wa minadh dhambilladhi la alamu, innaka anta allamul ghuyubi wa sattarul uyubi wa ghaffarudh dhunubi, wa la hawla wa la quwwata illa billahil aliyyil azeem.",
+      "translations": {
+        "en": "I ask Allah, my Lord, to forgive every sin I did on purpose or by mistake, in secret or in the open. I turn to Him from the sin I know and the sin I do not know. You know what is hidden, You cover faults, and You forgive sins. There is no power and no strength except with Allah, the Most High, the Most Great.",
+        "ur": "میں اپنے رب اللہ سے ہر اس گناہ کی معافی مانگتا ہوں جو میں نے جان بوجھ کر یا بھول کر، چھپ کر یا کھلے میں کیا۔ میں اس گناہ سے بھی توبہ کرتا ہوں جو میں جانتا ہوں اور اس سے بھی جو میں نہیں جانتا۔ تو چھپی باتوں کو جاننے والا، عیبوں کو چھپانے والا اور گناہ بخشنے والا ہے۔ طاقت صرف اللہ بلند و بزرگ کے ساتھ ہے۔"
+      },
+      "source": "The fifth kalima. Printed children's books do not all use the same Arabic for this kalima. This draft must be compared with the copy you want to teach. Not a claimed hadith reference.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 7,
+      "ageMax": 10
+    },
+    {
+      "id": "kalima-6",
+      "title": "Kalima Radde Kufr",
+      "arabic": "ٱللَّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ أَنْ أُشْرِكَ بِكَ شَيْئًا وَأَنَا أَعْلَمُ وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ تُبْتُ عَنْهُ وَتَبَرَّأْتُ مِنَ ٱلْكُفْرِ وَٱلشِّرْكِ وَٱلْكِذْبِ وَٱلْغِيبَةِ وَٱلْبِدْعَةِ وَٱلنَّمِيمَةِ وَٱلْفَوَاحِشِ وَٱلْبُهْتَانِ وَٱلْمَعَاصِي كُلِّهَا وَأَسْلَمْتُ وَأَقُولُ لَا إِلَٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ",
+      "transliteration": "Allahumma inni a'udhu bika min an ushrika bika shay'an wa ana a'lamu, wa astaghfiruka lima la a'lamu, tubtu anhu wa tabarra'tu minal kufri wash shirki wal kidhbi wal ghibati wal bid'ati wan namimati wal fawahishi wal buhtani wal ma'asi kulliha, wa aslamtu wa aqulu la ilaha illallahu Muhammadur Rasulullah.",
+      "translations": {
+        "en": "O Allah, I seek Your protection from associating anything with You while I know it, and I ask Your forgiveness for what I do not know. I turn away from disbelief, associating partners with You, lying, backbiting, innovation, tale-carrying, shameful acts, false blame, and every disobedience. I submit, and I say: none has the right to be worshipped except Allah, and Muhammad is the messenger of Allah.",
+        "ur": "اے اللہ، میں جان بوجھ کر کسی کو تیرا شریک بنانے سے تیری پناہ مانگتا ہوں، اور جو میں نہیں جانتا اس کی معافی مانگتا ہوں۔ میں کفر، شرک، جھوٹ، غیبت، بدعت، چغلی، برے کام، بہتان اور ہر نافرمانی سے بیزار ہوں۔ میں فرمانبردار ہوں اور کہتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، محمد اللہ کے رسول ہیں۔"
+      },
+      "source": "The sixth kalima. Its exact list of words varies between textbooks. This is a draft for comparison, not a verified narration. A reviewer must choose the wording your school uses.",
+      "audioUrl": null,
+      "verified": false,
+      "reviewedBy": null,
+      "reviewStatus": "needs_review",
+      "ageMin": 8,
+      "ageMax": 10
+    }
+  ]
+}
